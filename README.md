@@ -1,9 +1,9 @@
-## Alex's Prosthetic Tactile Research
+# Alex's Prosthetic Tactile Research
 
 
 ##Please note progress
 
-###Semester 2
+###Semester 1
 S1 Week 1 3/3/2017 Potential Projects - COMPLETE
 S1 Week 2 10/3/2017 Initial Research proposal (charter) 0% - COMPLETE
 S1 Week 4 22/3/2017 Final Research Proposal (charter) 5% - IN PROGRESS
