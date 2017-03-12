@@ -1,8 +1,6 @@
-# Prosthetic-Tactile-Research
-Prosthetic Tactile Sensor With Force Feedback
-
-
 # Alex's Prosthetic Tactile Research
+
+Prosthetic Tactile Sensor With Force Feedback
 
 ##Please note progress
 
