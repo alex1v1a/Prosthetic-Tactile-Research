@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenario xmlns="http://www.omnigroup.com/namespace/OmniPlan/v2" xmlns:opns="http://www.omnigroup.com/namespace/OmniPlan/v2" id="amZ3vVJgT-j">
+  <start-date>2017-03-10T11:00:00.000Z</start-date>
+  <prototype-task>
+    <task id="t-2">
+      <title>Task 1</title>
+      <effort>28800</effort>
+    </task>
+  </prototype-task>
+  <prototype-task>
+    <task id="t-3">
+      <title>Milestone 1</title>
+      <type>milestone</type>
+    </task>
+  </prototype-task>
+  <prototype-task>
+    <task id="t-4">
+      <title>Group 1</title>
+      <type>group</type>
+    </task>
+  </prototype-task>
+  <prototype-resource>
+    <resource id="r-2">
+      <name>Resource 1</name>
+      <type>Staff</type>
+    </resource>
+  </prototype-resource>
+  <prototype-resource>
+    <resource id="r-3">
+      <name>Equipment 1</name>
+      <type>Equipment</type>
+    </resource>
+  </prototype-resource>
+  <prototype-resource>
+    <resource id="r-4">
+      <name>Material 1</name>
+      <type>Material</type>
+      <units-available>0</units-available>
+      <efficiency>0</efficiency>
+    </resource>
+  </prototype-resource>
+  <prototype-resource>
+    <resource id="r-5">
+      <name>Group 1</name>
+      <type>Group</type>
+    </resource>
+  </prototype-resource>
+  <top-resource idref="r-1"/>
+  <resource id="r-1">
+    <type>Group</type>
+    <child-resource idref="r1"/>
+  </resource>
+  <resource id="r1">
+    <name>Resource 1</name>
+    <type>Staff</type>
+  </resource>
+  <top-task idref="t-1"/>
+  <task id="t-1">
+    <type>group</type>
+    <child-task idref="t1"/>
+    <child-task idref="t2"/>
+    <child-task idref="t8"/>
+    <child-task idref="t9"/>
+    <child-task idref="t10"/>
+    <child-task idref="t11"/>
+    <child-task idref="t12"/>
+    <child-task idref="t14"/>
+    <child-task idref="t15"/>
+  </task>
+  <task id="t1">
+    <title>Research Proposal</title>
+    <effort>28800</effort>
+    <effort-done>28800</effort-done>
+  </task>
+  <task id="t2">
+    <title>Final Research Proposal 5%</title>
+    <effort>223200</effort>
+    <start-constraint-date>2017-03-13T20:00:00.000Z</start-constraint-date>
+    <prerequisite-task idref="t1"/>
+    <start-no-earlier-than>2017-03-13T20:00:00.000Z</start-no-earlier-than>
+  </task>
+  <task id="t8">
+    <title>Literature Review 15%</title>
+    <effort>685800</effort>
+    <start-constraint-date>2017-03-23T19:30:00.000Z</start-constraint-date>
+    <prerequisite-task idref="t2"/>
+    <start-no-earlier-than>2017-03-23T19:30:00.000Z</start-no-earlier-than>
+  </task>
+  <task id="t9">
+    <title>Progress Meeting 10%</title>
+    <effort>257400</effort>
+    <start-constraint-date>2017-04-26T04:30:00.000Z</start-constraint-date>
+    <prerequisite-task idref="t8"/>
+    <start-no-earlier-than>2017-04-26T04:30:00.000Z</start-no-earlier-than>
+  </task>
+  <task id="t10">
+    <title>Research Paper 10%</title>
+    <effort>2732400</effort>
+    <start-constraint-date>2017-05-09T04:30:00.000Z</start-constraint-date>
+    <prerequisite-task idref="t9"/>
+    <start-no-earlier-than>2017-05-09T04:30:00.000Z</start-no-earlier-than>
+  </task>
+  <task id="t11">
+    <title>Final Year Research project seminar 20%</title>
+    <effort>136800</effort>
+    <start-constraint-date>2017-10-15T19:30:00.000Z</start-constraint-date>
+    <prerequisite-task idref="t10"/>
+    <start-no-earlier-than>2017-10-15T19:30:00.000Z</start-no-earlier-than>
+  </task>
+  <task id="t12">
+    <title>Final report 40%</title>
+    <effort>198000</effort>
+    <start-constraint-date>2017-10-22T19:30:00.000Z</start-constraint-date>
+    <prerequisite-task idref="t11"/>
+    <prerequisite-task idref="t15"/>
+    <start-no-earlier-than>2017-10-22T19:30:00.000Z</start-no-earlier-than>
+  </task>
+  <task id="t14">
+    <title>Design and Build</title>
+    <effort>2016000</effort>
+    <start-constraint-date>2017-05-21T20:30:00.000Z</start-constraint-date>
+    <prerequisite-task idref="t9"/>
+    <start-no-earlier-than>2017-05-21T20:30:00.000Z</start-no-earlier-than>
+  </task>
+  <task id="t15">
+    <title>Testing</title>
+    <effort>1148400</effort>
+    <start-constraint-date>2017-08-27T22:00:00.000Z</start-constraint-date>
+    <prerequisite-task idref="t14"/>
+    <start-no-earlier-than>2017-08-27T22:00:00.000Z</start-no-earlier-than>
+  </task>
+  <critical-path root="-1" enabled="false" resources="false">
+    <color r="1" g="0.5" b="0.5"/>
+  </critical-path>
+</scenario>

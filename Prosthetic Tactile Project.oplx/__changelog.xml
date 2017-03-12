@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<changelog xmlns="http://www.omnigroup.com/namespace/OmniPlan/v2">
+  <version>2.1</version>
+  <task-change-set user="Alexander Kwok" date="2017-03-10T12:51:50.346Z" timestamp="2017-03-10T12:51:50.346Z">
+    <change idref="t2" to="t-1" to-position="1">
+      <change idref="t2" attribute="effort" type="real" from="28800" to="223200"/>
+      <change idref="t2" attribute="internalPrerequisitesString" type="string" to="1FS"/>
+      <change idref="t2" attribute="noEarlierThanConstraintDate" type="date" to="2017-03-13T20:00:00.000Z"/>
+      <change idref="t2" attribute="title" type="string" to="Final Research Proposal 5%"/>
+    </change>
+    <change idref="t8" to="t-1" to-position="2">
+      <change idref="t8" attribute="effort" type="real" from="28800" to="685800"/>
+      <change idref="t8" attribute="internalPrerequisitesString" type="string" to="2FS"/>
+      <change idref="t8" attribute="noEarlierThanConstraintDate" type="date" to="2017-03-23T19:30:00.000Z"/>
+      <change idref="t8" attribute="title" type="string" to="Literature Review 15%"/>
+    </change>
+    <change idref="t9" to="t-1" to-position="3">
+      <change idref="t9" attribute="effort" type="real" from="28800" to="774000"/>
+      <change idref="t9" attribute="internalPrerequisitesString" type="string" to="8FS"/>
+      <change idref="t9" attribute="noEarlierThanConstraintDate" type="date" to="2017-04-26T04:30:00.000Z"/>
+      <change idref="t9" attribute="title" type="string" to="Progress Meeting 10%"/>
+    </change>
+    <change idref="t10" to="t-1" to-position="4">
+      <change idref="t10" attribute="effort" type="real" from="28800" to="2732400"/>
+      <change idref="t10" attribute="internalPrerequisitesString" type="string" to="9FS"/>
+      <change idref="t10" attribute="noEarlierThanConstraintDate" type="date" to="2017-06-04T20:30:00.000Z"/>
+      <change idref="t10" attribute="title" type="string" to="Research Paper 10%"/>
+    </change>
+    <change idref="t11" to="t-1" to-position="5">
+      <change idref="t11" attribute="effort" type="real" from="28800" to="136800"/>
+      <change idref="t11" attribute="internalPrerequisitesString" type="string" to="10FS"/>
+      <change idref="t11" attribute="noEarlierThanConstraintDate" type="date" to="2017-10-15T19:30:00.000Z"/>
+      <change idref="t11" attribute="title" type="string" to="Final Year Research project seminar 20%"/>
+    </change>
+    <change idref="t12" to="t-1" to-position="6">
+      <change idref="t12" attribute="effort" type="real" from="28800" to="198000"/>
+      <change idref="t12" attribute="internalPrerequisitesString" type="string" to="11FS"/>
+      <change idref="t12" attribute="noEarlierThanConstraintDate" type="date" to="2017-10-22T19:30:00.000Z"/>
+      <change idref="t12" attribute="title" type="string" to="Final report 40%"/>
+    </change>
+    <change idref="t1" attribute="title" type="string" from="Task 1" to="Research Proposal"/>
+    <change idref="t1" attribute="internalEffortDone" type="real" from="0" to="28800"/>
+  </task-change-set>
+  <task-change-set user="Alexander Kwok" date="2017-03-10T13:00:04.905Z" timestamp="2017-03-10T13:00:04.905Z">
+    <change idref="t14" to="t-1" to-position="7" resolved="yes">
+      <change idref="t14" attribute="effort" type="real" from="28800" to="2016000"/>
+      <change idref="t14" attribute="internalPrerequisitesString" type="string" to="9FS"/>
+      <change idref="t14" attribute="noEarlierThanConstraintDate" type="date" to="2017-05-21T20:30:00.000Z"/>
+      <change idref="t14" attribute="title" type="string" to="Design and Build"/>
+    </change>
+    <change idref="t15" to="t-1" to-position="8" resolved="yes">
+      <change idref="t15" attribute="effort" type="real" from="28800" to="1148400"/>
+      <change idref="t15" attribute="internalPrerequisitesString" type="string" to="14FS"/>
+      <change idref="t15" attribute="noEarlierThanConstraintDate" type="date" to="2017-08-27T22:00:00.000Z"/>
+      <change idref="t15" attribute="title" type="string" to="Testing"/>
+    </change>
+    <change idref="t9" attribute="effort" type="real" from="774000" to="257400" resolved="yes"/>
+    <change idref="t10" attribute="noEarlierThanConstraintDate" type="date" from="2017-06-04T20:30:00.000Z" to="2017-05-09T04:30:00.000Z" resolved="yes"/>
+    <change idref="t12" attribute="internalPrerequisitesString" type="string" from="11FS" to="11FS, 15FS" resolved="yes"/>
+  </task-change-set>
+  <metadata-change-set user="Alexander Kwok" date="2017-03-10T12:51:50.346Z" timestamp="2017-03-10T12:51:50.346Z">
+    <change idref="m1" attribute="fixedDate" type="date" from="2007-01-01T20:00:00.000Z" to="2017-03-10T11:00:00.000Z"/>
+  </metadata-change-set>
+</changelog>
