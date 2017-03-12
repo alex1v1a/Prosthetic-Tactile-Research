@@ -1,7 +1,15 @@
+# Prosthetic-Tactile-Research
+Prosthetic Tactile Sensor With Force Feedback
+
+
 # Alex's Prosthetic Tactile Research
 
-
 ##Please note progress
+
+Starting the final research proposal paper 10% due S1 week 4 22/3/2017 
+
+Project initiation process
+
 
 ###Semester 1
 
@@ -25,4 +33,3 @@ S2 Week 11 13/10/2017 Research Paper 10%
 S2 Week 12 20/10/2017 Final Year Research project seminar 20%
 
 S2 Week 13 31/10/2017 Final report 40%
-
