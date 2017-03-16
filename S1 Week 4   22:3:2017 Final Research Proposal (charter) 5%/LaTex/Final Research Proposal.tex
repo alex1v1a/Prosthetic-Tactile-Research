@@ -17,7 +17,8 @@
                                                           % if you need a4paper
 \documentclass[a4paper, 10pt, conference]{IEEEconf}      % Use this line for a4
                                                           % paper
-
+\usepackage{verbatim}
+\usepackage{graphicx}
 %\IEEEoverridecommandlockouts                              % This command is only
                                                           % needed if you want to
                                                           % use the \thanks command
@@ -79,121 +80,392 @@ This document is to expand the initial research aspects of tactile sensory imple
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{INTRODUCTION}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
+\section{INTRODUCTION}
+The purpose of this research is to provide alternative responses, to better improve and achieve daily life tasks, for those of limitations due to a disability or disfigurement.
+
+To explore and achieve the tasks of better design for a response feedback when grasping objects using tactile sensors, implemented in supportive wearable devices. This objective trends to meet requirements, where the ability to measure pressure or impulse over solid objects, physical interaction, with its environment to a reasonable scale.
+
+Key concepts of this research steps through the ability to be durable, yet maintain accuracy giving the user the benefit of somewhat the sense of touch.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 \section{BACKGROUND}
 
+Key aspects when breaking down the system, to achieve this method include
+\begin{itemize}
+\item Applying Tactile Sensors to the latest designs of Soft Robotics
+\item Connecting current technologies, to be applied in more versatile solutions
+\item Ultimately achieve picking up an object with force response to provide the user with enough feedback that a safe and maintainable force is achieved
+\end{itemize}
+Currently there are many applications for force feedback of durable surfaces, specifically in the medical industry. Although many of these applications are already in practice, in daily use for automation deformation, and with sorting factories; there has yet to be a human interface designed to assist those whom had disabilities such as ALS, or amputees whom have suffered a loss of limbs.
+
+The way in such the popularity of the force feedback devices have been studied from the early nineties with some early projects in the seventies to the current date, much of the recent development has been pushed in such the development over the last 10 years has expanded immensely. With companies from IEEE Spectrum, and the University of Tokyo, Professor Takao Someya Ph.D has achieved many developments which have implemented sensors with stretchable, bendable, and flexible properties to be as pliable as that of human skin.
+
+\begin{figure}[h!]
+  \includegraphics[width=\linewidth]{images/eskin}
+  \caption{Professor Takao Someya's E-Skin}
+  \label{fig:eskin}
+\end{figure}
+
+The development holds high regard for biomedical applications and is sought to achieve not only end user abilities for skin like responses, but also work done in surgery.
+
+\begin{comment}
 What is it?
 
 Many projects fail, or have limited success, due to inadequate direction, planning and understanding of the context and desired outcomes. 
 The Project Charter is a ?living and evolving? document that contains the current, critical information about the project. 
+\end{comment}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsection{Research Questions}
 
+The purpose of this research is to achieve grip with response for safety purposes. The industry currently has many durable surface sensors of which have been applied in a vast number of ways, and some already have been applied even as skin, or feedback sensor of a finger for robotic delicacy to be applied in the medical field for automated surgery. 
+
+So to find what it is that is needed to be achieved the structure that is broken down is vital, not just in the technology, but due to the specific nature of human interface devices, aesthetics and ethics play a major part when development into daily like tasks and processes.
+
+How can sensors be implemented in substances of thin, durable materials which can then be recognised as skin essentially to the naked eye.
+Can this be fitted with the smallest profile or even stick to the skin, but also be removable.
+
+
+\begin{comment}
 Project context
 
 The main purpose of this section is to give confidence to the reader that you understand the problem and the ramifications surrounding it. It should contain a brief statement as to the background of the problem, quantifying where possible, e.g. if it is to do with a particular NZ industry what is the value of the whole industry? Where does the particular Company or activity fit into this? The same for the technologies involved, go from ?blue skies? to ?near future? to ?readily available?. Go from the global to the local to the project specific. The reader should be fully aware as to where your particular project fits into the bigger picture. It is important to base this on verifiable facts, so an initial knowledge search should be one of the first things you do. This is traditionally in the form of a literature search but should include all sources of knowledge. 
-The scope and any boundaries set for the project should be summarized.
-The estimated value of a successful solution (see below) to the stakeholders should be summarized. This gives an immediate indication as to the degree of effort justified in solving the problem.As the project progresses, the need for new contextual information will be identified and will be added to the Charter.  So, for example, as possible solutions to a problem are identified there may be a need to research more about the technologies that underpin these solutions or previous applications.
+
+The scope and any boundaries set for the project should be summarised.
+
+The estimated value of a successful solution (see below) to the stakeholders should be summarised. This gives an immediate indication as to the degree of effort justified in solving the problem.
+
+As the project progresses, the need for new contextual information will be identified and will be added to the Charter.  So, for example, as possible solutions to a problem are identified there may be a need to research more about the technologies that underpin these solutions or previous applications.
+\end{comment}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsection{Design and Method}
 
+In order to get any useful response, many measurements over an area must be taken in different directions. Using thin film transistors printed on durable synthetic materials, provides many answers and is not only a viable option but also cheap and easy to handle, non toxic or harmful to the enviroment - aligning capacitors in a grid, and measuring the force over the general area as an average; then outputting the response as a scaled force. Including compensation for ghost force (skin stretching effecting force on other areas, e.g. when bending a finger pressure is exerted around the joint areas while expansions is observed over other areas. The elasticity of the skin provided by lines and wrinkles can give indication for these areas and there predictions.
+
+Todays general tactile sensors are a majority of flex-ribbon circuits or an area of aligned transistors; however there are several other forms of measurement available including nano-composite cilia, which provides bi-directional response's for tasks that are subject to dependance on grip as well as direct force.
+
+The materials structure may be stretched, folded, or even crumpled like paper, while maintaining integrity. The lightweight material may even stick and be removed from actual skin and in some cases remain unnoticeable gaining aesthetic apprasal.
+
+\begin{comment}
 Project scope
 
 Defining the scope of a project is often critical to a successful result. If the scope is defined too narrowly you may fail to appreciate the impact of the wider context on your proposed solution.  If you define the scope too wide then your solution may not really address the true problem. So, for example, in solving the problem of limited power supply to a specific region should you look at improving the current mechanisms for power supply or should you extend your scope to include new mechanisms.
+\end{comment}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 \section{SIGNIFICANCE OF RESEARCH}
 
+The skin like material with sensors response can be used for a variety of different applications, from health monitoring systems, to such of a more specific task of wearable medical instruments.
 
+When implemented circuitry to an actuated movement, further analysis can be made as to how an object can be picked up when sorting; whether the target object is capable of being lifted safely.
+
+A more specialised approach to the early stages of development in new sensory for potential human interfacing; giving back the sense of feeling, touch on skin for those with nerve damage or other precursive diseases such as, but not limited to ALS, RI, Cystic Fibrosis, any suppression of the sense.
+
+While the safety of picking up and holding simple objects securely is the main task at hand, responses are not limited to just that, and by adding the tactile devices to a user offers better measure and check the electrical activity of muscles, or even patients vitals.
+
+In an end result it is hoped to achieve this development of the combination of synthetic skin, and alternative muscle control.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsection{Stakeholders} 
 
+Many companies in California are developing systems which interface human input, e.g. Nevro is producing an IPG device called the HF-10, which is used to suppress chronic pain disorders in the lower back and legs region, via the T10 segment of the spine; and tapping in to the signal to produce a pulse like noise canceling, that suppresses the pain response given by the body.
+This technology is available today and you can get them for many applications, including things such as brain probes for more sever cases.
+Todays concepts are subject to user aesthetics and while some kids are happy with a Terminator or Iron man prosthetic others may prefer a more subtle approach for what they may find looks acceptable based on personal preference or others reactions
+
+
+Robotiq (Force-Feedback)
+	Constant Force
+	Object Location
+	Repeatable Force
+	Weighing Stuff
+	Hand Guiding
+	
+Qmed - Flexi ribbon Tactile sensor
+
+Intech - Pneumatic Artificial Muscles
+
+ipgLab - Smart tooth sensor
+
+mdttag - IPG sensors
+
+Atlas - Robotic arms with force feedback for medical industry and surgeries 
+
+
+
+
+
+The great part of this research is that there are many people with physical disabilities whom have limited options to improve quality of life at this stage.
+The stakeholders remain mostly in the medical industry with the ideals of developing affordable prosthetics for general public, however there are developments with DARPA and other weapon contractors for applications in combat and range situations with their exoskeleton projects and more.
+
+
+
+\begin{comment}
 Key stakeholders and their relevance to the project 
 
-Stakeholders are either individuals, groups, companies or even communities who the project will affect in some way. The stakeholders should be:?	Listed in order of priority?	Have their relationships to the project clearly defined. E.g. Customer or client, financial investor, financial dependent, lifestyle change, protester etc.?	Have their desired outcomes or expectations of the project idenitifed
+Stakeholders are either individuals, groups, companies or even communities who the project will affect in some way. The stakeholders should be:
+?	Listed in order of priority
+?	Have their relationships to the project clearly defined. E.g. Customer or client, financial investor, financial dependent, lifestyle change, protester etc.
+?	Have their desired outcomes or expectations of the project identified
+\end{comment}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsection{Ethics}
 
-Project authorization
+
+By the ability to measure and scale the force acting on the surface of different objects, correct force can be applied so not only machines can handle more gentle tasks, and be limited to safety deformations; but also response can be given to tasks that include pressure sensory not limited to a gas or liquid measurement.
+
+
+\begin{comment}
+Project authorisation
+\end{comment}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsection{Limitations}
 
+
+
+\begin{comment}
 Project constraints
 
-List, with a short statement as to the significance, the constraints being imposed on the project and state whether they are sacrosanct or challengeable. Note that these are problem orientated not solution orientated. They can be thought of ?no go areas? or ?must go areas? to the potential solution and is an essential prerequisite to preparing the design specification.E.g.1. Patent No 12345NZ  applies and must not be infringed ? sacrosanct.2. Co. policy; plant shuts down every Friday. ? challengeable.3. Reticulated gas not available. ? sacrosanct.Etc.
+List, with a short statement as to the significance, the constraints being imposed on the project and state whether they are sacrosanct or challengeable. Note that these are problem orientated not solution orientated. They can be thought of ?no go areas? or ?must go areas? to the potential solution and is an essential prerequisite to preparing the design specification.
+E.g.
+1. Patent No 12345NZ  applies and must not be infringed ? sacrosanct.
+2. Co. policy; plant shuts down every Friday. ? challengeable.
+3. Reticulated gas not available. ? sacrosanct.
+Etc.
+\end{comment}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsection{Timeline}
 
+
+
+
+
+\begin{comment}
 Project management
 
 Project Plan: This is the major task involved in preparing a charter. This is where you decide on the approach you are going to take to achieve the outcomes you have defined.
-The resources required for a successful outcome; the major resource for your project is likely to be your own effort. The paper requires approximately 150 hours, it is up to you to ensure the scope of your project does not exceed this. Talk to your supervisor about this. Include any special equipment or software you think you may require and how this is to be supplied.
-The cost of these resources; If you were employed as an inexperienced graduate by a consulting company your charge out rate would be around 70 dollars per hour, so there is 10000 dollars per team member to start with! Workshop assistance should be costed at 90 dolars per hour. Equipment should be put in at best available estimate.
+
+The resources required for a successful outcome; the major resource for your project is likely to be your own effort. The paper requires approximately 150 hours, it is up to you to ensure the scope of your project does not exceed this. Talk to your supervisor about this. Include any special equipment or software you think you may require and how this is to be supplied.
+
+The cost of these resources; If you were employed as an inexperienced graduate by a consulting company your charge out rate would be around 70 dollars per hour, so there is 10000 dollars per team member to start with! Workshop assistance should be costed at 90 dollars per hour. Equipment should be put in at best available estimate.
 
 Management processes. The plan you have now created is the basis of your management system.  IT WILL CHANGE, sometimes due to unforeseen circumstances and sometimes due to planned circumstances. The instances of planned change will arise where you have planned an investigative activity and the output from that activity changes your original plan. The important thing is to keep the plan up to date and use it to prompt recovery actions and as details or specifications are refined with time these 
+\end{comment}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 \section{PROJECT PLAN}
 
+
+
+
+\begin{comment}
 Project risks
 
 These are the reasons the project might fail. Keep these to genuine factors, e.g. equipment not being available. For any risk you identify make sure you have an appropriate alternative/recovery/exit plan covered when you do your planning stage. Do not use the old favourite ?run out of time?, think of your bosses? reaction if you put up a Charter to commit 40000 dollars of your time and in it you state that a major risk is that you will not be able to finish it. If this is the case it needs sorting before you commit to a Charter.
+\end{comment}
 
 
 
+
+
+
+
+\begin{comment}
 Health and safety
 
 A health and safety management plan should be included in the project charter for any practical work being completed as part of the project. Basic health and safety plans include how (and by whom) authorisation is given to facilities, under what terms this is given and for what purpose facilities can be used for. 
+\end{comment}
 
 
 
+
+
+
+
+\begin{comment}
 Communication plan
 
 A plan as to how you are going to keep the stakeholders informed of your progress and major decisions should be drawn up. One idea is to have the plan milestone driven rather than time driven. In other words, you take your time plan and identify key tasks (usually tasks with high uncertainty level) and plan communication events as each of these is completed. This puts an emphasis on completing the task and not on justifying why you are late! You will obviously have to meet progress requirements as per the paper outline.
+\end{comment}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsection{Deliverables}
 
+Although the development has been around for decades for each field, implementation of the two has only recently began to be explored.
+Future development of this technology has the potential to be applied to many scenarios, both industrial and commercial. 
+While there now are such robust designs and size limitations, there is confidence in the field form variety of applications to allow room to grow; more concise methods to be formed for feasible applicable devices.
+
+
+
+
+
+
+\begin{comment}
 Project deliverables
 
-The project deliverable (sometimes referred to as ?outputs?) are the things you are going to leave with your client. In addition to the stipulated output requirements for this paper: (see the assessment schedule and paper outline), they  could also include the raw data, proven software, a tested proto type etc. This presents a problem, because your project should give you the opportunity to explore alternative solutions to the problem, you will not be in a position at the beginning of the project to identify the project outputs other than in very general, simplistic terms. The projects undertaken for this paper vary immensely except in one factor, they all should be of about the same student workload. This is achieved by refining the project outputs with your supervisor. 
+The project deliverable (sometimes referred to as ?outputs?) are the things you are going to leave with your client. In addition to the stipulated output requirements for this paper: (see the assessment schedule and paper outline), they  could also include the raw data, proven software, a tested prototype etc. This presents a problem, because your project should give you the opportunity to explore alternative solutions to the problem, you will not be in a position at the beginning of the project to identify the project outputs other than in very general, simplistic terms. The projects undertaken for this paper vary immensely except in one factor, they all should be of about the same student workload. This is achieved by refining the project outputs with your supervisor. 
 
 Therefore an activity ?Defining Project deliverables? should appear in an appropriate place in your time plan as a major milestone. Ideally this needs to be at a point where a solution or course of action has been decided upon but not so late that the outputs are already obtained. For the majority of projects this will be before the first progress review. This is a critical dynamic action and should be reviewed at each progress stage.
+\end{comment}
 
+
+One day not to far we can expect to see usage  of these devices implemented in a direct response system
+By using IPG (implanted pulse generators) or Paddles a direct input output can be given from the users own nervous system almost matching the sense and movement of the original limb
+
+
+
+
+By implementing different types of sensors into flexible substances, a response can be registered in a more durable manner; thus allowing the data to be interpreted in non-linear forms, mimicking the natural reaction to environments in a more general form.
+
+What are the mechanics of the whole hand, directional force on knuckles, skin, muscles and for a start off to analyse a single finger
+
+
+\begin{comment}
 What does it achieve?
 
 The Project Charter is an internal document. It provides all the critical project information to ensure all internal stakeholders have a common understanding of project.
+\end{comment}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsection{Outcomes}
 
+
+The scope of the project is to provide a measurable response via the force-feedback of the implemented durable surface tactile sensor in a prosthetic hand or response glove
+
+Rather then designing an entire glove and implementing sensors throughout in many directions, then compensating for skin elasticity and joint directional force; this method of research is purely to test the implementation of a tactile response in a HID which has more of a practical approach.
+
+
+
+\begin{comment}
 Project outcomes
 
-These should be expressed in terms of the desired end state which would exist if the problem is solved.The difference between an Outcome and an Output is that the Outcome is a state whereas an Output is a means of achieving the change to reach the desired state. For example if your project is to design a safer road layout for intersections then the Outcome would be ? reduced number of accidents at intersections? and the Output would be whatever you planned to introduce to achieve that, intelligent traffic lights, new layout for road markings, driver education etc.Two things to be aware of at this stage: (1) sub-optimisation ? draw your boundaries to the problem with care and (2) make sure the ?problem? being described to you is the problem and not a symptom, make use of cause and effect analysis techniques to avoid this.DO NOT use ?The outcome of this project will be to increase the amount of insulation on the external parts of the drying plant and hence reduce the energy costs by 10%.?
-A better outcome would be; The aim of this project is to reduce the overall running costs of the drying process by 10%.
-The first aim does not give you the scope to explore alternative solutions and it could be achieved at the expense of other factors actually leading to a higher overall running cost of the plant.
-What is considered a successful outcome? A successful outcome is one that can be verified in some way.  Avoid relative terms such as ?better?, ?lighter?, ?cheaper? etc. If the aim is to reduce the cost then by this stage the current cost should be known and a target cost agreed, similarly, if your aim is to increase the reliability of a communications network then appropriate metrics should be used. The verification method should be stated for each outcome and could involve calculations, trials, experiments, prototypes etc.
+These should be expressed in terms of the desired end state which would exist if the problem is solved.
+The difference between an Outcome and an Output is that the Outcome is a state whereas an Output is a means of achieving the change to reach the desired state. 
+For example if your project is to design a safer road layout for intersections then the Outcome would be ? reduced number of accidents at intersections? and the Output would be whatever you planned to introduce to achieve that, intelligent traffic lights, new layout for road markings, driver education etc.
+Two things to be aware of at this stage: (1) sub-optimisation ? draw your boundaries to the problem with care and (2) make sure the ?problem? being described to you is the problem and not a symptom, make use of cause and effect analysis techniques to avoid this.
+
+DO NOT use ?The outcome of this project will be to increase the amount of insulation on the external parts of the drying plant and hence reduce the energy costs by 10percent.?
+
+A better outcome would be; The aim of this project is to reduce the overall running costs of the drying process by 10percent.
+
+The first aim does not give you the scope to explore alternative solutions and it could be achieved at the expense of other factors actually leading to a higher overall running cost of the plant.
+
+What is considered a successful outcome? A successful outcome is one that can be verified in some way.  Avoid relative terms such as ?better?, ?lighter?, ?cheaper? etc. If the aim is to reduce the cost then by this stage the current cost should be known and a target cost agreed, similarly, if your aim is to increase the reliability of a communications network then appropriate metrics should be used. The verification method should be stated for each outcome and could involve calculations, trials, experiments, prototypes etc.
 
 The value of a successful outcome (financial, social, environmental); It is essential that the value placed on a successful outcome is understood as this is the dominant factor in the viability of the project. When considering the financial aspect, do not restrict your thinking to cost savings, very few projects can be justified purely on savings. Increased demand, entering new markets or meeting compliance requirements are far more likely to yield desired returns and these opportunities can arise from the social or environmental considerations ( organic free range eggs!). Do not forget the potential value of Intellectual Property.
+\end{comment}
 
 
+Aesthetically pleasant, without having the negative public attraction
+What is socially acceptable at this stage? Not an eyesore-
+Something that a user can interact with to an acceptable standpoint
+can they put it on themselves in the morning?
+Provide useful response
+As the user continues to use the device becoming adaptive with the way in alerts are made, growing with the patient and learning common activities: yes this force is ok, no response needs to be given as the applied force is enough to engage with the object correctly
+
+
+
+\begin{comment}
 What it means for your project? 
 
 You should NOT look on the Project Charter as an end product in itself. It supports your project, it is a ?living document?, there is no reason why you should not be thinking about possible solutions to your problem while preparing the charter.?In this project we are focusing on the Charter as a means of emphasizing the need for a clear project direction and understanding of the project context. You will take longer to prepare you Project Charter than normal commercial practice. 
+\end{comment}
+   
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   
    
 \subsection{Results}
 
+Distortion
+Weight scale
+Compound elasticity
+Joint bends
+Object of interest shape or design (target to pick up or grip)
+Environmental aspects and Effect
+The ?Terminator? aesthetics (age group)
+Different ways people hold objects
+Natural positioning 
+
+Interference
+Positional sensors
+Ghost Force - skin stretch
+Influence from other skin surface area
+Other clean breaks
+Skin bending? - more/less sensitive?
+
+
+
+While the main point of the device is to provide recognition for the user to know if he or she has grasped a cup which will not fall when lifted, or not use too much force when picking up a glass to break it; a fundamental aspect of the project is aesthetics and making a comfortable, low profile, and visually appealing device with least intrusion to the user.
+
+By implementing just one finger, and using sensors to take measurement along the one axis of direction, then assessing the pressure force which in turn registers to a micro controller display output weather it is to produce
+	A sound similar to that of the PDC on a car
+	
+	A tightening band placed on a still intact part of the body to provide equal force as being applied
+
+	A Haptic or vibration response, where small shock pulses are given in similar adjustable frequencies to that of the PDC rather without the sound 
+
+	OR eventually (out of this scope), direct implementation to the nervous system via IPG sensors giving the user full control of the system with low latency response
+
+
+\begin{comment}
 Key project performance criteria (metric)
 
 How will you know if your project has been successful?  A clear list of criteria should be defined generally relating to the outcomes and deliverables, and should be measurable and quantifiable.
+\end{comment}
+
+
 
 %Figure Labels: Use 8 point Times New Roman for Figure labels. Use words rather than symbols or abbreviations when writing Figure axis labels to avoid confusing the reader. As an example, write the quantity “Magnetization”, or “Magnetization, M”, not just “M”. If including units in the label, present them within parentheses. Do not label axes only with units. In the example, write “Magnetization (A/m)” or “Magnetization {A[m(1)]}”, not just “A/m”. Do not label axes with a ratio of quantities and units. For example, write “Temperature (K)”, not “Temperature/K.”
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 \section{CONCLUSIONS}
 
+
+
+\begin{comment}
 Change control
 
 A plan for making changes to the project plan or project charter must be put in place. Both an authorisation procedure and aspects which are not subject to change need to be discussed at the outset of the project. 
+\end{comment}
+
+
 
 %A conclusion section is not required. Although a conclusion may review the main points of the paper, do not replicate the abstract as the conclusion. A conclusion might elaborate on the importance of the work or suggest applications and extensions. 
 
@@ -204,18 +476,18 @@ A plan for making changes to the project plan or project charter must be put in 
                                   % so it should come on the page before the last. Make
                                   % sure that you do not shorten the textheight too much.
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{APPENDIX}
 
+
+
+
 %Appendixes should appear before the acknowledgment.
+
 
 \section*{ACKNOWLEDGMENT}
 
@@ -291,9 +563,23 @@ A plan for making changes to the project plan or project charter must be put in 
 %      \label{figurelabel}
 %   \end{figure}
 
+\begin{comment}
+\begin{figure}[h!]
+  \includegraphics[width=\linewidth]{images/test1}
+  \caption{A caption about what the image shows}
+  \label{fig:boat1}
+\end{figure}
+
+%Figure \ref{fig:boat1} Test photo.
 
 
+h (here) - same location
+t (top) - top of page
+b (bottom) - bottom of page
+p (page) - on an extra page
+! (override) - will force the specified location
 
+\end{comment}
 
 
 %italics
@@ -302,8 +588,16 @@ A plan for making changes to the project plan or project charter must be put in 
 %{\bf root.tex}.
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
 \begin{thebibliography}{99}
 
+
+
+\begin{comment}
 \bibitem{c1} G. O. Young, “Synthetic structure of industrial plastics (Book style with paper title and editor),” 	in Plastics, 2nd ed. vol. 3, J. Peters, Ed.  New York: McGraw-Hill, 1964, pp. 15–64.
 \bibitem{c2} W.-K. Chen, Linear Networks and Systems (Book style).	Belmont, CA: Wadsworth, 1993, pp. 123–135.
 \bibitem{c3} H. Poor, An Introduction to Signal Detection and Estimation.   New York: Springer-Verlag, 1985, ch. 4.
@@ -324,6 +618,7 @@ A plan for making changes to the project plan or project charter must be put in 
 \bibitem{c18} J. Williams, “Narrow-band analyzer (Thesis or Dissertation style),” Ph.D. dissertation, Dept. Elect. Eng., Harvard Univ., Cambridge, MA, 1993. 
 \bibitem{c19} N. Kawasaki, “Parametric study of thermal and chemical nonequilibrium nozzle flow,” M.S. thesis, Dept. Electron. Eng., Osaka Univ., Osaka, Japan, 1993.
 \bibitem{c20} J. P. Wilkinson, “Nonlinear resonant circuit devices (Patent style),” U.S. Patent 3 624 12, July 16, 1990. 
+\end{comment}
 
 
 \end{thebibliography}
