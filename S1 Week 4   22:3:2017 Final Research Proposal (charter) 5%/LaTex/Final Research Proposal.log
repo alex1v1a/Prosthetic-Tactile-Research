@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.12)  17 MAR 2017 16:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.12)  17 MAR 2017 18:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -393,33 +393,43 @@ Package pdftex.def Info: images/progresslog.png used on input line 338.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [4 <./images/projectplan.png> <./images/progresslog.png>]
+Underfull \hbox (badness 2608) in paragraph at lines 632--633
+[]\OT1/ptm/m/n/9 Huang H, Kuiken TA, Lip-schutz RD. A strat-egy
+ []
 
-LaTeX Warning: Empty `thebibliography' environment on input line 649.
 
-[5
+Underfull \hbox (badness 1968) in paragraph at lines 638--639
+[]\OT1/ptm/m/n/9 Jenmalm P, Jo-hans-son RS. Vi-sual and so-matosen-
+ []
 
-] (./Final Research Proposal.aux) ) 
+[5] [6
+
+] (./Final Research Proposal.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2651 strings out of 493014
- 38907 string characters out of 6133351
- 108430 words of memory out of 5000000
- 6130 multiletter control sequences out of 15000+600000
- 37844 words of font info for 77 fonts, out of 8000000 for 9000
+ 2659 strings out of 493014
+ 38948 string characters out of 6133351
+ 109430 words of memory out of 5000000
+ 6137 multiletter control sequences out of 15000+600000
+ 38922 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,14n,28p,907b,352s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/en
-c/dvips/base/8r.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmsy6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmsy9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/courier/ucrr
-8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/loca
-l/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/
-2016/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Final Research Proposal.pdf" (5 pages, 3405386 bytes).
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
+ype1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/t
+imes/utmri8a.pfb>
+Output written on "Final Research Proposal.pdf" (6 pages, 3408288 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 63 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
