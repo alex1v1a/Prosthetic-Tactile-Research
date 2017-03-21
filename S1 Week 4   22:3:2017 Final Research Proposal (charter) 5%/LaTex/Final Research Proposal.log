@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.12)  21 MAR 2017 22:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.12)  21 MAR 2017 23:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -264,6 +264,12 @@ LaTeX Warning: Label `fig:Progress log' multiply defined.
 
 LaTeX Warning: Label `fig:Progress log' multiply defined.
 
+
+LaTeX Warning: Label `fig:Progress log' multiply defined.
+
+
+LaTeX Warning: Label `fig:eskin' multiply defined.
+
 )
 \openout1 = `"Final Research Proposal.aux"'.
 
@@ -499,38 +505,38 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
 <images/eskin.png, id=29, 1301.86375pt x 749.80125pt>
 File: images/eskin.png Graphic file (type png)
  <use images/eskin.png>
-Package pdftex.def Info: images/eskin.png used on input line 87.
+Package pdftex.def Info: images/eskin.png used on input line 88.
 (pdftex.def)             Requested size: 221.32687pt x 127.46452pt.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 88.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 89.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 88.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 89.
  [2{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
  <./images/eskin.png>] <images/armmuscle.jpg, id=43, 440.64626pt x 501.875pt>
 File: images/armmuscle.jpg Graphic file (type jpg)
 
 <use images/armmuscle.jpg>
-Package pdftex.def Info: images/armmuscle.jpg used on input line 98.
+Package pdftex.def Info: images/armmuscle.jpg used on input line 99.
 (pdftex.def)             Requested size: 221.32687pt x 252.07791pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 113.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 114.
 
 <images/engineersget.jpg, id=44, 602.25pt x 361.35pt>
 File: images/engineersget.jpg Graphic file (type jpg)
 
 <use images/engineersget.jpg>
-Package pdftex.def Info: images/engineersget.jpg used on input line 123.
+Package pdftex.def Info: images/engineersget.jpg used on input line 124.
 (pdftex.def)             Requested size: 221.32687pt x 132.79866pt.
 
 <images/Duratile.png, id=45, 432.61626pt x 348.30125pt>
 File: images/Duratile.png Graphic file (type png)
 
 <use images/Duratile.png>
-Package pdftex.def Info: images/Duratile.png used on input line 150.
+Package pdftex.def Info: images/Duratile.png used on input line 151.
 (pdftex.def)             Requested size: 221.32687pt x 178.18932pt.
 
 
@@ -544,31 +550,31 @@ Underfull \vbox (badness 5726) has occurred while \output is active []
 File: images/tactilefingertip.jpg Graphic file (type jpg)
 
 <use images/tactilefingertip.jpg>
-Package pdftex.def Info: images/tactilefingertip.jpg used on input line 179.
+Package pdftex.def Info: images/tactilefingertip.jpg used on input line 180.
 (pdftex.def)             Requested size: 221.32687pt x 123.94798pt.
 
 <images/Nevro-senza-system.png, id=50, 750.805pt x 715.67375pt>
 File: images/Nevro-senza-system.png Graphic file (type png)
 
 <use images/Nevro-senza-system.png>
-Package pdftex.def Info: images/Nevro-senza-system.png used on input line 198.
+Package pdftex.def Info: images/Nevro-senza-system.png used on input line 199.
 (pdftex.def)             Requested size: 221.32687pt x 210.96904pt.
  [4 <./images/Duratile.png> <./images/tactilefingertip.jpg> <./images/Nevro-sen
 za-system.png>]
 <images/oric.jpg, id=56, 602.25pt x 426.59375pt>
 File: images/oric.jpg Graphic file (type jpg)
  <use images/oric.jpg>
-Package pdftex.def Info: images/oric.jpg used on input line 210.
+Package pdftex.def Info: images/oric.jpg used on input line 211.
 (pdftex.def)             Requested size: 221.32687pt x 156.7762pt.
 
-Underfull \hbox (badness 1975) in paragraph at lines 215--216
+Underfull \hbox (badness 1975) in paragraph at lines 216--217
 []\OT1/ptm/m/n/10 In there model they demon-strate how this is
  []
 
 <images/lukehand.jpg, id=57, 4384.38pt x 2922.92pt>
 File: images/lukehand.jpg Graphic file (type jpg)
  <use images/lukehand.jpg>
-Package pdftex.def Info: images/lukehand.jpg used on input line 218.
+Package pdftex.def Info: images/lukehand.jpg used on input line 219.
 (pdftex.def)             Requested size: 221.32687pt x 147.53716pt.
 
 
@@ -577,7 +583,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <images/hand2.jpg, id=58, 3923.65875pt x 2677.00125pt>
 File: images/hand2.jpg Graphic file (type jpg)
  <use images/hand2.jpg>
-Package pdftex.def Info: images/hand2.jpg used on input line 226.
+Package pdftex.def Info: images/hand2.jpg used on input line 227.
 (pdftex.def)             Requested size: 221.32687pt x 150.97308pt.
 
 <images/bebionic3-prosthetic-hand.jpg, id=59, 771.88374pt x 474.77374pt>
@@ -585,7 +591,7 @@ File: images/bebionic3-prosthetic-hand.jpg Graphic file (type jpg)
 
 <use images/bebionic3-prosthetic-hand.jpg>
 Package pdftex.def Info: images/bebionic3-prosthetic-hand.jpg used on input lin
-e 234.
+e 235.
 (pdftex.def)             Requested size: 221.32687pt x 136.13054pt.
 
 
@@ -595,14 +601,14 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Underfull \vbox (badness 1424) has occurred while \output is active []
 
  [5 <./images/oric.jpg> <./images/lukehand.jpg> <./images/hand2.jpg>]
-Underfull \hbox (badness 1205) in paragraph at lines 254--255
+Underfull \hbox (badness 1205) in paragraph at lines 255--256
 []\OT1/ptm/m/n/10 Intech - Pneu-matic Ar-ti-fi-cial Mus-cles (cur-rent
  []
 
 <images/exohand.jpg, id=63, 585.18625pt x 363.3575pt>
 File: images/exohand.jpg Graphic file (type jpg)
  <use images/exohand.jpg>
-Package pdftex.def Info: images/exohand.jpg used on input line 267.
+Package pdftex.def Info: images/exohand.jpg used on input line 268.
 (pdftex.def)             Requested size: 221.32687pt x 137.42857pt.
 
 
@@ -612,7 +618,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: images/accomplishment.png Graphic file (type png)
 
 <use images/accomplishment.png>
-Package pdftex.def Info: images/accomplishment.png used on input line 291.
+Package pdftex.def Info: images/accomplishment.png used on input line 292.
 (pdftex.def)             Requested size: 221.32687pt x 143.69539pt.
  [6 <./images/bebionic3-prosthetic-hand.jpg> <./images/exohand.jpg> <./images/a
 ccomplishment.png>]
@@ -620,21 +626,21 @@ ccomplishment.png>]
 File: images/bebionic3.png Graphic file (type png)
 
 <use images/bebionic3.png>
-Package pdftex.def Info: images/bebionic3.png used on input line 312.
+Package pdftex.def Info: images/bebionic3.png used on input line 313.
 (pdftex.def)             Requested size: 221.32687pt x 97.38467pt.
 
 <images/projectplan.png, id=70, 902.37125pt x 277.035pt>
 File: images/projectplan.png Graphic file (type png)
 
 <use images/projectplan.png>
-Package pdftex.def Info: images/projectplan.png used on input line 335.
+Package pdftex.def Info: images/projectplan.png used on input line 336.
 (pdftex.def)             Requested size: 221.32687pt x 67.94814pt.
 
 <images/progresslog.png, id=71, 444.15938pt x 453.19313pt>
 File: images/progresslog.png Graphic file (type png)
 
 <use images/progresslog.png>
-Package pdftex.def Info: images/progresslog.png used on input line 385.
+Package pdftex.def Info: images/progresslog.png used on input line 386.
 (pdftex.def)             Requested size: 221.32687pt x 225.82841pt.
 
 Underfull \vbox (badness 2213) has occurred while \output is active []
@@ -644,14 +650,14 @@ ng>]
 <images/tactile1.jpg, id=79, 1284.8pt x 856.19875pt>
 File: images/tactile1.jpg Graphic file (type jpg)
  <use images/tactile1.jpg>
-Package pdftex.def Info: images/tactile1.jpg used on input line 404.
+Package pdftex.def Info: images/tactile1.jpg used on input line 405.
 (pdftex.def)             Requested size: 221.32687pt x 147.48541pt.
 
 <images/accomplishment2.jpg, id=80, 738.76pt x 398.48875pt>
 File: images/accomplishment2.jpg Graphic file (type jpg)
 
 <use images/accomplishment2.jpg>
-Package pdftex.def Info: images/accomplishment2.jpg used on input line 430.
+Package pdftex.def Info: images/accomplishment2.jpg used on input line 431.
 (pdftex.def)             Requested size: 221.32687pt x 119.38338pt.
 
 
@@ -665,7 +671,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: images/tactile01.png Graphic file (type png)
 
 <use images/tactile01.png>
-Package pdftex.def Info: images/tactile01.png used on input line 452.
+Package pdftex.def Info: images/tactile01.png used on input line 453.
 (pdftex.def)             Requested size: 221.32687pt x 190.33685pt.
  [8 <./images/tactile1.jpg> <./images/accomplishment2.jpg> <./images/tactile01.
 png>]
@@ -674,22 +680,27 @@ File: images/duratactilemicromeasure.jpg Graphic file (type jpg)
 
 <use images/duratactilemicromeasure.jpg>
 Package pdftex.def Info: images/duratactilemicromeasure.jpg used on input line 
-482.
+483.
 (pdftex.def)             Requested size: 221.32687pt x 165.99832pt.
- [9 <./images/duratactilemicromeasure.jpg>] (./Final Research Proposal.bbl
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) [10]
+<images/JohnsHopkins.png, id=87, 773.89125pt x 781.92125pt>
+File: images/JohnsHopkins.png Graphic file (type png)
+
+<use images/JohnsHopkins.png>
+Package pdftex.def Info: images/JohnsHopkins.png used on input line 528.
+(pdftex.def)             Requested size: 221.32687pt x 223.6254pt.
+ [9 <./images/duratactilemicromeasure.jpg> <./images/JohnsHopkins.png>] (./Fina
+l Research Proposal.bbl) [10]
 (./Final Research Proposal.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4143 strings out of 493014
- 61234 string characters out of 6133351
- 135896 words of memory out of 5000000
- 7561 multiletter control sequences out of 15000+600000
+ 4148 strings out of 493014
+ 61361 string characters out of 6133351
+ 136896 words of memory out of 5000000
+ 7565 multiletter control sequences out of 15000+600000
  40058 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,18n,40p,907b,366s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -702,10 +713,10 @@ exmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2016/texmf-di
 st/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
 ype1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/t
 imes/utmri8a.pfb>
-Output written on "Final Research Proposal.pdf" (10 pages, 19534316 bytes).
+Output written on "Final Research Proposal.pdf" (10 pages, 20704548 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
+ 123 PDF objects out of 1000 (max. 8388607)
  66 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
