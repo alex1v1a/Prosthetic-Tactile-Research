@@ -1,32 +1,18 @@
-%\documentclass{article}
 
-%\begin{document}
-
-%\title{Final Research Proposal \\Prosthetic Tactile Sensor With Force Feedback}
-%\author{Marc Alexander Sferrazza}
-%\date{March 12, 2017}
-%\maketitle
-
-%\end{document}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%2345678901234567890123456789012345678901234567890123456789012345678901234567890
-%        1         2         3         4         5         6         7         8
-
-%\documentclass[letterpaper, 10 pt, conference]{ieeeconf}  % Comment this line out
-                                                          % if you need a4paper
-\documentclass[a4paper, 10pt, conference]{IEEEconf}      % Use this line for a4
-                                                          % paper
+\documentclass[a4paper, 10pt, conference]{IEEEconf}  
+    
 \usepackage{verbatim}
 \usepackage{graphicx}
+\usepackage{pdfpages}
+
+\setlength{\parskip}{1em}
+
 %\IEEEoverridecommandlockouts                              % This command is only
                                                           % needed if you want to
                                                           % use the \thanks command
 %\overrideIEEEmargins
 % See the \addtolength command later in the file to balance the column lengths
 % on the last page of the document
-
-
 
 % The following packages can be found on http:\\www.ctan.org
 %\usepackage{graphics} % for pdf, bitmapped graphics files
@@ -40,21 +26,6 @@
 Final Research Proposal, Project Charter\\Prosthetic Tactile Sensor With Force Feedback
 }
 
-%\author{ \parbox{3 in}{\centering Huibert Kwakernaak*
-%         \thanks{*Use the $\backslash$thanks command to put information here}\\
-%         Faculty of Electrical Engineering, Mathematics and Computer Science\\
-%         University of Twente\\
-%         7500 AE Enschede, The Netherlands\\
-%         {\tt\small h.kwakernaak@autsubmit.com}}
-%         \hspace*{ 0.5 in}
-%         \parbox{3 in}{ \centering Pradeep Misra**
-%         \thanks{**The footnote marks may be inserted manually}\\
-%        Department of Electrical Engineering \\
-%         Wright State University\\
-%         Dayton, OH 45435, USA\\
-%         {\tt\small pmisra@cs.wright.edu}}
-%}
-
 \author{Marc Alexander Sferrazza% <-this % stops a space
 \thanks{*This work was not supported by any organization}% <-this % stops a space
 \thanks{Faculty of Mechatronics Engineering, Massey University, Albany, Auckland, New Zealand
@@ -64,20 +35,24 @@ Final Research Proposal, Project Charter\\Prosthetic Tactile Sensor With Force F
 
 \begin{document}
 
+\begin{figure}
+	\centering
+	\includepdf[pages=-]{TitlePage.pdf}
+\end{figure}
 
+\
 
 \maketitle
 \thispagestyle{empty}
 \pagestyle{empty}
 
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \begin{abstract}
 
 This document is to expand the initial research aspects of tactile sensory implementation with durable materials, particularly the field of soft robotic applications in the aim to conceive a more applicable human response system.
 
 \end{abstract}
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -90,11 +65,8 @@ To explore and achieve the tasks of better design for a response feedback when g
 
 Key concepts of this research steps through the ability to be durable, yet maintain accuracy giving the user the benefit of somewhat the sense of touch.
 
-
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 
 \section{BACKGROUND}
 
@@ -200,7 +172,9 @@ Concepts are subject to user aesthetics and while some kids are happy with a Ter
 
 The leading developers in todays prosthetic arms however are {\bf Johns Hopkins University APL} (applied physics lab)
 
-Here they talk about {\bf sensory reinnervation} {\it (targeted muscle}, developed by Dr. Todd Kuiken at Northwestern University and Rehabilitation), which basically is having surgery and taking the nerve fibers through the muscle to the skin where they can then be probed and connected, given pulses which are tuned like your ears to for their sense of touch by the prosthetic hand which has over 100 sensors to send signals back to the nerve. This was quiet fascinating although outside of the projects scope; but helped give indication that the idea is very real and prototyping is already underway. 
+Here they talk about {\bf sensory reinnervation} (targeted sensory reinnervation TSR along side targeted msucle reinnervation TMR) {\it (targeted muscle}, developed by Dr. Todd Kuiken at Northwestern University and Rehabilitation), which basically is having surgery and taking the nerve fibers through the muscle to the skin where they can then be probed and connected, given pulses which are tuned like your ears to for their sense of touch by the prosthetic hand which has over 100 sensors to send signals back to the nerve. This was quiet fascinating although outside of the projects scope; but helped give indication that the idea is very real and prototyping is already underway. 
+
+In there model they demonstrate how this is achieved. Walter Reed (National Military Medical Centre) with DARPA APL have collaborated to connect the dots from machine to man. There are three main nerves that run down your arm to your hand, the Ulnar nerve, Median nerve, and the superficial branch of the Radial nerve. These main nerve lines contain a bundle of tiny nerves fibres, like that of an Ethernet Cat-5/6 cable. When unbundled and found the fibres for your hand, thumb, index finger etc then these can be connected to the Cutaneous nerves, which give the feeling along your skin. These connections are layered by AxoGuard Nerve Protector to ensure the nerve remains intact. Then you have essentially the feeling of your thumb on a particular part of then skin where it has been reconnected; which in turn can be given stimulation to give back the feeling when something has come in contact.
 
 Rivalling companies on a more consumer available scale are {\bf Steeper}, with their product the {\it BeBionic} of which targets ease of use by a series of muscle combinations movements pre-programmed grips controlled by two electrodes connected to muscles via the electromyography (EMG) detection. 
 
@@ -232,6 +206,8 @@ Some companies which have had further insight to this are;
 
 The great part of this research is that there are many people with physical disabilities whom have limited options to improve quality of life at this stage.
 The stakeholders remain mostly in the medical industry with the ideals of developing affordable prosthetics for general public, however there are developments with DARPA and other weapon contractors for applications in combat and range situations with their exoskeleton projects and more.
+
+As these methods have high costs attached, units into the millions, a considerable amount of leading projects are owned and financed by DARPA military contracts, which mean they will be used first for military type operations before being release to a more commercial scheme.
 
 
 
@@ -490,9 +466,9 @@ How will you know if your project has been successful?  A clear list of criteria
 
 \section{CONCLUSIONS}
 
-Planning for changes in the project and what may happen in certain situations and how to handle them will get a ideal timeline; however there is always room for the unexpected. Being ready and prepared for these issues, by allocating the extra time to sort them and resource to support arising problems will help to not prevent but progress through these sudden mishaps. Moving in steps from A to Z, but at times going through hoops and barrels to end there.
+Planning for changes in the project and what may happen in certain situations, how to handle them will get a ideal timeline; however there is always room for the unexpected. Being ready and prepared for these issues, by allocating the extra time to sort them and resource to support arising problems will help to not prevent, but progress through these sudden mishaps. Moving in steps from A to Z, but at times going through hoops and barrels to end there.
 
-Thus being aware of these changes, and the ultimatum that not only will the response provide the ability to measure safety force over a pin point, or a large area in order to correctly pick up objects with dropping or deforming; but also provide a more durable method for automation, such that a robotic picker can handle eggs to coal while maintaining its own artificial skin, and increasing lifespan with lower maintance of the device with fragile materials.
+Thus being aware of these changes, and the ultimatum that not only will the response provide the ability to measure safety force over a pin point, or a large area in order to correctly pick up objects without dropping or deforming; but also provide a more durable method for automation, such that a robotic picker can handle  fragile items eggs to coal while maintaining its own artificial skin, and increasing lifespan with lower maintenance of the device with more delicate materials.
 
 \begin{comment}
 Change control
@@ -506,7 +482,7 @@ Than materials aren't available here possible able in a bit to hit the target to
 
 being aware how to make these changes to get to an unltimate and the main goal of the a project.
 
-the effects if how the finer will have different - pictures and the force with possible interference, test rig and getting readings. for issuing final results slides with graphs and different positions and because i know this here if I know the next stage I can see weather my finger was jammed on something else. 
+the effects if how the finer will have different - pictures and the force with possible interference, test rig and getting readings. for issuing final results slides with graphs and different positions and because I know this here if I know the next stage I can see weather my finger was jammed on something else. 
 
 monitor itself better and get feedback on all the things where 
 
@@ -700,8 +676,6 @@ p (page) - on an extra page
 
 
 \end{thebibliography}
-
-
 
 
 \end{document}
