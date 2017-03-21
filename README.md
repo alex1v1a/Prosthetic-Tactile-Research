@@ -4,7 +4,7 @@ Prosthetic Tactile Sensor With Force Feedback
 
 ##Please note progress
 
-Starting the final research proposal paper 10% due S1 week 4 22/3/2017 
+Finished the final research proposal paper 5% due S1 week 4 22/3/2017 
 
 Project initiation process
 
