@@ -5,7 +5,6 @@
 %\usepackage{geometry}
 %\geometry{a4paper, margin=1in}
 
-    
 \usepackage{verbatim}
 \usepackage{graphicx}
 \usepackage{pdfpages}
@@ -21,7 +20,7 @@ Literature Review\\Prosthetic Tactile Sensor With Force Feedback
 }
 
 \author{Marc Alexander Sferrazza%
-\thanks{*This work was not supported by any organization}%
+\thanks{*This work was not supported by any organisation}%
 \thanks{Faculty of Mechatronics Engineering, Massey University, Albany, Auckland, New Zealand
         {\tt\small Progress of project: alex1v1a.github.io /Prosthetic-Tactile-Research/}}%
 }
@@ -43,59 +42,221 @@ Literature Review\\Prosthetic Tactile Sensor With Force Feedback
 
 \begin{abstract}
 
+The focus of this research is in the area of tactile sensors, and their application in the field of prosthetics. Such a study is important in order to further develop practical implementations for a forced feedback analysis, to give the sense of touch back to those whom have lost limbs. The research approach adopted in this dissertation is due to the high impact on amputees lives without the ability to feel what they are doing. 
 
+The findings from this research provide evidence that tactile sensory is a viable force measure tool, while the range of dynamic sensory (temperature, stroking) is still limited. There are processes currently being specifically targeted in capturing this data and relaying it correctly. 
+
+The main conclusions drawn from the study are that tactile's are a largely accepted means of measurement for prosthetics, and the methods of implementation of these sensors range immensely for applications not limited to that of this condition. It is found that the use of durable tactile's in an array provides a reasonable level of ranged force feedback, which in turn can be passed as output to a user to distinguish differences of sharp and smooth objects relative to this application. 
+
+This dissertation recommends that a viable sensor for use with prosthetics will be that of a durable and high-resolution force measurement tactile which is closely meet with by E-Skin (Tokyo University Professor Takao Someya), and PRINTSKIN (Dr. Ravinder S. Dahiya, University of Glasgow Scotland).
 
 \end{abstract}
 
 
 \section{INTRODUCTION}
 
-\subsection{blah}
+%Background
+Tactile sensors have a wide range of applications from medical instruments, manufacturing line, sorting tasks, and much more. Over the last decade tactile sensors have been refined from their more rudimentary predecessors; which in turn provides far more variety of applications. One opportunity opened when durable tactile's with moderate usable resolution presented itself is the task or implementation in prosthetics. 
+
+%Scientific
+Doctors are now successfully experimenting with a surgery called TMR (targeted muscle reinnervation) also known as TSR (targeted sensor reinnervation) with slight variances. This surgery unbundles the main already severed nerves (touch and muscle control) and maps them to a patients skin nerves; which allow devices such as electrodes to be used to measure the patterns and run algorithms to determine process's of movement currently up to 10 degrees of freedom [John Hopkins APL, DARPA] as a bonus to this nerve mapping the stimulation of the mapped skin area could be used to give sensation back to the user of feeling in their missing limb down to the stroke on the pinky. As an additional side effect which surprised everyone at the time is that the mapped nerves could also sense all the ranges regular appendages could with a range of temperature and sharpness.
+
+\begin{figure}[h!]
+  \includegraphics[width=\linewidth]{images/Nerve}
+  \caption{Understanding the fundamentals; simplified diagram of communication from the brain to fingertips}
+  \label{fig:Nerve}
+\end{figure}
+
+%Value/significance/benefits of this research
+This remarkable procedure not only provides the task to give users back control of a once lost limb, it also means a response can be issued back dynamically none the less from a stimulated force feedback, to simulated temperature control. The focus of this research being that more second step in which a force is to be measured, in turn giving an output to which can be applied to the user in a number of ways. The frame of tactile's today has come along way in the last 10 years for robotics, and can now successfully be utilised for this application.
+
+%Research focus
+A number of methods have already been implemented in order to achieve this task, however there is more then one correct answer and development will only improve. Currently there are several limitations at hand (no pun intended) including size, durability and deformation, types of sensors, and other aesthetic and ethic aspects to be praised.
+
+%Research aims and individual research objectives, Objectives and topics of the review relevant to this research
+The main aspect to focus for this prosthetic tactile research, as there are so many focus segments, is to apply an array of tactile's to a wearable device; in which a user output can be given such that a high enough resolution is available to determine the difference between smooth distribution and sharp surfaces e.g. a sea egg (urchin) and a chicken egg.
+
+%Technological, social, economical and environmental impacts
+
+
+\subsection{Social, Economical and Environmental impact}
+
+The way in which fundamental interactions with the environment can be defined is limited. 
 
 \begin{comment}
-?	A concise definition of a topic under consideration (this may be a descriptive or agumentative thesis, or proposal), as well as the scope of the related literature being investigated. (Example: If the topic under consideration is `women's wartime diaries', the scope of the review may be limited to published or unpublished works, works in English, works from a particular location, time period, or conflict, etc.)?	The introduction should also note intentional exclusions. (Example: "This review will not explore the diaries of adolescent girls.")?	Another purpose of the introduction is to state the general findings of the review (what do most of the sources conclude), and comment on the availability of sources in the subject area.
+?	A concise definition of a topic under consideration (this may be a descriptive or argumentative thesis, or proposal), as well as the scope of the related literature being investigated. (Example: If the topic under consideration is `women's wartime diaries', the scope of the review may be limited to published or unpublished works, works in English, works from a particular location, time period, or conflict, etc.)
+?	The introduction should also note intentional exclusions. (Example: "This review will not explore the diaries of adolescent girls.")
+?	Another purpose of the introduction is to state the general findings of the review (what do most of the sources conclude), and comment on the availability of sources in the subject area.
 
-Introductory sectiono Explain why the review is carried outo Describe the scope of the reviewo Explain how the information in the
+Introductory section
+o Explain why the review is carried out
+o Describe the scope of the review
+o Explain how the information in the
 \end{comment}
 
-\clearpage
 \section{Review of Literature}
 
-\subsection{blah}
+
+
 
 \begin{comment}
-?	There are many ways to organise the evaluation of the sources. Chronological and thematic approaches are each useful examples.?	Each work should be critically summarised and evaluated for its premise, methodology, and conclusion. It is as important to address inconsistencies, omissions, and errors, as it is to identify accuracy, depth, and relevance.?	Use logical connections and transitions to connect sources.
+Tracing the origin of ideas
 
-Relevant and logical flow of informationo Identify and discuss key areas of the research topic o Use of recent and relevant peer-reviewed journalarticles, books and other relevant material (e.g. reportsfrom previous work)o Discuss techniques and equipment that are appropriatefor the research topico Identify gaps in the research
+	When and where the original discovery was made and the concepts defined
+
+	To share appreciation for fundamental issues, principles, methods, and techniques which influenced the development of the field
+
+Critical assessment of the state of the art
+
+	Establishing the state-of-the-art in the field
+		Approach and methodology means of discovery discovery as accepted or established by the research community
+		Pros and cons in terms of a set of performance criteria
+		Remaining issues and new challenges
+	
+	Identifying the benchmark for performance evaluation
+
+Establishing the significance (scientific and social) and innovation of the proposed research
+\end{comment}
+
+
+\subsection{Technique}
+
+\begin{comment}
+?	There are many ways to organise the evaluation of the sources. Chronological and thematic approaches are each useful examples.
+?	Each work should be critically summarised and evaluated for its premise, methodology, and conclusion. It is as important to address inconsistencies, omissions, and errors, as it is to identify accuracy, depth, and relevance.
+?	Use logical connections and transitions to connect sources.
+
+Relevant and logical flow of information
+o Identify and discuss key areas of the research topic o Use of recent and relevant peer-reviewed journal
+articles, books and other relevant material (e.g. reports
+from previous work)
+o Discuss techniques and equipment that are appropriate
+for the research topic
+o Identify gaps in the research
 \end{comment}
 
 \clearpage
 \section{Methodology}
+Several types of tactile have been developed over the last 30 years from large resistors, and narrowing to smaller more compact transistors. 
 
-\subsection{blah}
+The focus over the lsat 10 years has been to form a more durable and robust tactile, capable of being bent and stretched in order to deform in a manner respect to its environment. 
+
+The importance of this research enables implementations in applications such as the medical and manufacturing fields; and more specifically to address the manner of wearable touch sensitive devices, to distinguish the nature of foreign objects.
+
+\subsection{Materials}
+
+Traditionally inorganic materials have been used due to their favourable fabrication and electronic performance; however for the of nature of this application, and the specific parameters required, a smart ductile, stretchable, electronic material, is required to match properties that like of skin \cite{tinku2016micro} Therefore a balance must be found on which the properties are met for all required conditions.
+
+\begin{figure}[h!]
+  \includegraphics[width=\linewidth]{images/Traditional}
+  \caption{Traditional arrangements of a durable tactile}
+  \label{fig:Traditional}
+\end{figure}
+
+The current materials being implemented are P(VDF-TrFE) soft piezoelectric polymer films \cite{billard2013roboskin} These polymers demonstrate viscoelastic, and dielectric losses, which are used as an advantage to the substrate \cite{tinku2016micro} 
+
+Stretchable polymers are a great means for rigidity and deformation, however its materials lack in the ability to conduct electrical signals efficiently \cite{yogeswaran2015new} Therefore conductive fillers were introduced to aid the conductivity of layers. This is a trade-off of course as the higher ratio of filler added, the less ductile the material, the more brittle the nano-wires \cite{billard2013roboskin} which of course is reliant for the system.
+
+
+\clearpage
+\subsection{Printable Materials}
+
+The process of which a printable tactile can be established involves first moulding a cast with lithography, then inking by spin coating a wafer with composite ink and transferring that via the mould to another substrate, passing that substrate to polydimethylsiloxane (PDMS) cast and cure, and finally resulting with a patterned composite PDMS block. \cite{yogeswaran2015new} \cite{khan2015technologies}
+
+\begin{figure}[h!]
+  \includegraphics[width=\linewidth]{images/Process1}
+  \caption{A general process of manufacturing}
+  \label{fig:Process1}
+\end{figure}
+
+\begin{figure}[h!]
+  \includegraphics[width=\linewidth]{images/Process2}
+  \caption{Process equipment for a MOSFET tactile}
+  \label{fig:Process2}
+\end{figure}
+
+Organic semiconductors are capable of meeting high-performance standards, however are such unstable \cite{dahiya2013bendable} As a result they can often be slower then an inorganic components. Further investigation for single crystal Si ultra graphene chips are in the early stages but hold promise \cite{yogeswaran2015new} 
+
+\begin{figure}[h!]
+  \includegraphics[width=\linewidth]{images/Durable}
+  \caption{Composite PDMS block}
+  \label{fig:Durable}
+\end{figure}
+
+\subsection{Sensor Arrays}
+In a standard manufacturing process, arrays of tactile's are printed in layers. These wafer thin layers (700 µm - 50 µm) form together in a combination of patterns of which a lining process envelopes a lamination \cite{yogeswaran2015new} that similar to skin but rather comprised of several parts silicon. 
+
+Although silicon has become a popular and widely used material for tactile's in many research development centres around the world \cite{dahiya2013bendable}; Dr. Ravinder S. Dahiya has applied graphene in substitute as a filler for several prototypes in 2104.
+
+\begin{figure}[h!]
+  \includegraphics[width=\linewidth]{images/SingleElement}
+  \caption{Single element diagram of a POSFET tactile}
+  \label{fig:SingleElement}
+\end{figure}
+
+The ultra thin layers are grown even smaller then other silicone-based types, Down to the macro scale for each piezoelectric oxide semiconductor field effect transistor (POSFET) - each element in the array generates a charge voltage, as per design of the MOSFET the signal is then amplified to be analysed by computational intelligence.
+
+\begin{figure}[h!]
+  \includegraphics[width=\linewidth]{images/Array1}
+  \caption{Sensor process diagram}
+  \label{fig:Array1}
+\end{figure}
+
+The CMOS Sensor Array consists of elements in the 32 micro electrode gates and are layered between 15 µm and 100 µm piezoelectric films \cite{khan2015technologies} These films use an epoxy where higher filler of graphene is found \cite{dahiya2013posfet} The advantage is that each piezoelectric block has a higher control gain over the individual sensors and therefore simulated response when passed through as RAW data to the Computational intelligence it's far more accurate \cite{dahiya2007posfet}
+
+\begin{figure}[h!]
+  \includegraphics[width=\linewidth]{images/Sim}
+  \caption{Simulated response comparison in CMOS 32 array}
+  \label{fig:Sim}
+\end{figure}
+
+\begin{figure}[h!]
+  \includegraphics[width=\linewidth]{images/POSFET}
+  \caption{POSFET Touch Sensor}
+  \label{fig:POSFET}
+\end{figure}
+
+Articles of Dr. Dahiya's more recent work discuss how the nano fabricated arrays are 
+
+\clearpage
+\subsection{Computational Intelligence}
+
+As a general rule the piezoelectric polymer transducer is influenced by types of materials on all sides. This is important to note when handling the RAW data. Computational intelligence introduces different approaches on how to deal with such information as well as how to deal with roughness, angled contact, also texture pattern recognition, and other object detection \cite{decherchi2011tactile} 	
+
+Classifiers are used for the platform to address the dynamic range of forces \cite{cannata2010tactile} To calibrate this range, an instance of neural networks are stabilised using a learning machine; this uses probes of different materials and forces to generate a dynamic force range. The RAW data is passed to check the phase difference between each sensor on a difference deformation level, which is then used to average the force on the entire measurable area; a bit like mapping how skin ranges from tight and stretchy, to hard and wrinkly.
+
+Piezoelectric polymer properties offer a great range of positive aspects; however there are some drawbacks with factors to take account for, such as viscoelastic, dielectric losses. To compensate for these losses complex constants are in place for the elastic region, and often the phase of the signal must be classified with the dynamic forces \cite{kaboli2016novel}
+
+\begin{figure}[h!]
+  \includegraphics[width=\linewidth]{images/Posstruct}
+  \caption{Phase and Gain plots at 3 different applied forces for MEA film}
+  \label{fig:Posstruct}
+\end{figure}
+
+\subsection{Objects Orientation and Deformation}
+
+Simultaneous localisation and mapping (SLAM) provides tactile arrays to demonstrate how the sensors can work in neural networks in order to use combine and predict algorithms, such that a 3D map of force over an object can be achieved \cite{dahiya2013directions} This technique relies on the stretchable surfaces and the inductance of the transducers being constant over a dynamic scale, and is therefore calculated using three formulas relating to the force over the array in simultaneous directions at any given time \cite{kaboli2016tactile} 	
+\begin{figure}[h!]
+  \includegraphics[width=\linewidth]{images/Demo}
+  \caption{Simulation of POSFET type sensors over objects}
+  \label{fig:Demo}
+\end{figure}
+This technology is in its infancy stage and will be a few more years before implemented in the POSFET tactile system. The advantage of this is that with integration the signal elements can process sensing in live time, with predictions as to where applied forces will occur in advanced when clasping different objects. When a bottle or cup is picked up, majority of forces occur in four places; the bottom of the hand, the thumb, the fore-thumb and along the finger tips \cite{dahiya2013bendable} By using SLAM with the tactile's, predictions can be made as to what object is about to be obtained and what forces to expect. Further advantage of using this process is that while a large dynamic range may not be available in one calibrated setting; the array gives opportunity to adjust the calibration dependent on the predicted forces expected. \cite{kaboli2015hand} 
+
 
 \begin{comment}
-this part here does this and this and this, this other part does this and this but we want to achieve this and this so we have chosen this sensor.
+This part here does this and this and this, this other part does this and this but we want to achieve this and this so we have chosen this sensor.
 
-these sensors won?t work because of this and these sensors are ok for this but here are the faults
+These sensors won't work because of this and these sensors are ok for this but here are the faults
 
-find where the research leads to and present it in that way for the end product and explaining things.
+Find where the research leads to and present it in that way for the end product and explaining things.
 
 This is what the guy was explaining and not pulling things out of the sky.
 
-Critical analysiso Evaluate relevant research done by other researchers by ? Determining strengths and weaknesses of methods,results, conclusions and recommendations ? Expressing and justifying agreement anddisagreement
-\end{comment}
+Critical analysis
+- Evaluate relevant research done by other researchers by ? Determining strengths and weaknesses of methods,
+results, conclusions and recommendations ? Expressing and justifying agreement and disagreement
 
-
-
-
-\begin{itemize}
-	\item Be thorough and inclusive of all details concerning the decision 
-	\item Be objective and not subjective to details central to the project
-	\item Be aware of what the decision means or the outcome of the project
-\end{itemize}	
-
-\begin{comment}
 \begin{figure}[h!]
   \includegraphics[width=\linewidth]{images/Timeline}
   \caption{Timeline}
@@ -106,26 +267,45 @@ Critical analysiso Evaluate relevant research done by other researchers by ? De
 \clearpage
 \section{CONCLUSIONS}
 
+The results are highly influenced by real-world factors. How it feels when touched to a surface can be dependent on a number of considered reasons; these include interaction behaviours when the tactile's are deformed. Contact to objects and other external forces are not exempt to the noise of motion; meaning that not only the weight of an object and its deformation to the sensors must be compensated, but also how the motion and movements change this dynamic measurement. If the array were to sense a spiky ball being held in place, then squeezed the ball, and lastly push and roll the ball on a 3rd surface; the sensitivity of forces are calibrated such that an array can concise of 25 to 256 elements, thus providing a comparable use of range. 
+
+It is found that with the current range of research POSFET element, CMOS arrays are at a strong point and have future development underway with 3D mapping and force prediction. The POSFET tactile's are to a high enough resolution, and the durable, ductile material allows to be fitted to a specific or wide range of applications. 
+
+The properties of the piezoelectric blocks are stable enough and provide an accurate dynamic range of feedback, which when using correct classification and accounting for the phase and gain with deformation, will provide a close to life like sense similar to that of a human hand. 
+
+The material is also 98.78\% translucent and remarkably thin allowing the application to be used as a medicine glove, or other low profile device for a wide range of applications. The limitations at this stage are that its not yet an everyday usable device, and may not be available for commercial application for some time. The major setback is if a single element becomes offline the series will fail, and due to the inability to change individual components the entire unit would need to be replaced; however the cost per unit is considerably cheap to manufacture which will hopefully show on the retail side.
+
+For the purpose of this task, the piezoelectric array tactile's, PRINTSKIN (Dr. Ravinder S. Dahiya, University of Glasgow Scotland) or E-Skin (Tokyo University Professor Takao Someya) is optimal for measuring the variety of difference between a sea egg or chicken egg. 
+
+
 \begin{comment}
-?	The conclusion summarizes the key findings of the review in general terms. Notable conunonalities between works, whether favourable or not, may be included here.?	This section is the reviewer's opportunity to justify a research proposal. Therefore, the idea should be clearly re-stated and supported according to the findings of the review.
+?	The conclusion summarises the key findings of the review in general terms. Notable similarities between works, whether favourable or not, may be included here.
+?	This section is the reviewer's opportunity to justify a research proposal. Therefore, the idea should be clearly re-stated and supported according to the findings of the review.
 \end{comment}
 
 
 \addtolength{\textheight}{-12cm}   % This command serves to balance the column lengths
 
 
-\clearpage
 \section*{APPENDIX}
 
 \begin{comment}
 ?	As well as accurate in-text citations, a literature review must contain complete and correct citations for every source.
 
-Referencingo No plagiarism (all borrowed material must be adequately referenced).o Consistent use of citation style throughout the chapter o Complete reference list
+Referencing
+o No plagiarism (all borrowed material must be adequately referenced).
+o Consistent use of citation style throughout the chapter o Complete reference list
+
+\begin{itemize}
+	\item Be thorough and inclusive of all details concerning the decision 
+	\item Be objective and not subjective to details central to the project
+	\item Be aware of what the decision means or the outcome of the project
+\end{itemize}	
 
 \end{comment}
 
-\section*{ACKNOWLEDGMENT}
 
+\section*{ACKNOWLEDGMENT}
 
 \nocite{*}
 \bibliographystyle{ieeetr}

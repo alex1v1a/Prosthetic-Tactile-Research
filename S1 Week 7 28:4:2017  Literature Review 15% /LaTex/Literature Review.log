@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.12)  12 APR 2017 02:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.12)  22 APR 2017 17:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -221,19 +221,19 @@ LaTeX Warning: Unused global option(s):
 (./Literature Review.aux)
 \openout1 = `"Literature Review.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 29.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -343,162 +343,304 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 <TitlePage.pdf, id=1, 597.4822pt x 845.1575pt>
 File: TitlePage.pdf Graphic file (type pdf)
  <use TitlePage.pdf>
-Package pdftex.def Info: TitlePage.pdf used on input line 34.
+Package pdftex.def Info: TitlePage.pdf used on input line 33.
 (pdftex.def)             Requested size: 597.48073pt x 845.15544pt.
 File: TitlePage.pdf Graphic file (type pdf)
 
 <use TitlePage.pdf>
-Package pdftex.def Info: TitlePage.pdf used on input line 34.
+Package pdftex.def Info: TitlePage.pdf used on input line 33.
 (pdftex.def)             Requested size: 597.48073pt x 845.15544pt.
  <TitlePage.pdf, id=4, page=1, 597.4822pt x 845.1575pt>
 File: TitlePage.pdf Graphic file (type pdf)
 
 <use TitlePage.pdf, page 1>
-Package pdftex.def Info: TitlePage.pdf, page1 used on input line 34.
+Package pdftex.def Info: TitlePage.pdf, page1 used on input line 33.
 (pdftex.def)             Requested size: 597.48073pt x 845.15544pt.
 File: TitlePage.pdf Graphic file (type pdf)
  <use TitlePage.pdf, page 1>
-Package pdftex.def Info: TitlePage.pdf, page1 used on input line 34.
+Package pdftex.def Info: TitlePage.pdf, page1 used on input line 33.
 (pdftex.def)             Requested size: 597.50807pt x 845.19412pt.
 File: TitlePage.pdf Graphic file (type pdf)
 
 <use TitlePage.pdf, page 1>
-Package pdftex.def Info: TitlePage.pdf, page1 used on input line 34.
+Package pdftex.def Info: TitlePage.pdf, page1 used on input line 33.
 (pdftex.def)             Requested size: 597.50807pt x 845.19412pt.
 File: TitlePage.pdf Graphic file (type pdf)
  <use TitlePage.pdf, page 1>
-Package pdftex.def Info: TitlePage.pdf, page1 used on input line 34.
+Package pdftex.def Info: TitlePage.pdf, page1 used on input line 33.
 (pdftex.def)             Requested size: 597.50807pt x 845.19412pt.
 File: TitlePage.pdf Graphic file (type pdf)
 
 <use TitlePage.pdf, page 1>
-Package pdftex.def Info: TitlePage.pdf, page1 used on input line 39.
+Package pdftex.def Info: TitlePage.pdf, page1 used on input line 38.
 (pdftex.def)             Requested size: 597.50807pt x 845.19412pt.
  [1
 
 
  <./TitlePage.pdf>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 39
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 38
 .
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 39
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 38
 .
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 39
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 38
 .
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 39
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 38
 .
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 39.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 38.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 39.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 38.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
 [][]\OT1/ptm/m/n/8 Faculty of Mecha-tron-ics En-gi-neer-ing, Massey Uni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
 \OT1/ptm/m/n/8 ver-sity, Al-bany, Auck-land, New Zealand \OT1/pcr/m/n/9 Progres
 s
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
 \OT1/pcr/m/n/9 of project: alex1v1a.github.io
  []
 
+
+Underfull \vbox (badness 7832) has occurred while \output is active []
+
+
+<images/Nerve.png, id=29, 679.53876pt x 490.83376pt>
+File: images/Nerve.png Graphic file (type png)
+ <use images/Nerve.png>
+Package pdftex.def Info: images/Nerve.png used on input line 65.
+(pdftex.def)             Requested size: 221.32687pt x 159.86359pt.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 66.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 66.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
-[2{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 82.
+ [3
+
+ <./images/Nerve.png>] <images/Traditional.png, id=45, 259.97125pt x 685.56125p
+t>
+File: images/Traditional.png Graphic file (type png)
+
+<use images/Traditional.png>
+Package pdftex.def Info: images/Traditional.png used on input line 151.
+(pdftex.def)             Requested size: 221.32687pt x 583.65036pt.
 
 
-]
-[3
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-]
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 109.
- [4
+Underfull \hbox (badness 3098) in paragraph at lines 156--157
+[]\OT1/ptm/m/n/10 The cur-rent ma-te-ri-als be-ing im-ple-mented are
+ []
 
 
-] [5
+Underfull \hbox (badness 2326) in paragraph at lines 156--157
+\OT1/ptm/m/n/10 P(VDF-TrFE) soft piezo-elec-tric poly-mer films [2]
+ []
 
 
-] (./Literature Review.bbl
+LaTeX Warning: Text page 4 contains only floats.
+
+
+Overfull \vbox (2.35403pt too high) has occurred while \output is active []
+
+
+[4
+
+ <./images/Traditional.png>]
+<images/Process1.png, id=50, 362.35374pt x 249.93375pt>
+File: images/Process1.png Graphic file (type png)
+
+<use images/Process1.png>
+Package pdftex.def Info: images/Process1.png used on input line 167.
+(pdftex.def)             Requested size: 221.32687pt x 152.66148pt.
+
+<images/Process2.png, id=51, 362.35374pt x 242.9075pt>
+File: images/Process2.png Graphic file (type png)
+
+<use images/Process2.png>
+Package pdftex.def Info: images/Process2.png used on input line 173.
+(pdftex.def)             Requested size: 221.32687pt x 148.36978pt.
+ <images/Durable.png, id=52, 341.275pt x 629.35126pt>
+File: images/Durable.png Graphic file (type png)
+
+<use images/Durable.png>
+Package pdftex.def Info: images/Durable.png used on input line 181.
+(pdftex.def)             Requested size: 221.32687pt x 408.16116pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Missing character: There is no µ in font ptmr7t!
+Missing character: There is no µ in font ptmr7t!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+<images/SingleElement.png, id=53, 362.35374pt x 234.8775pt>
+File: images/SingleElement.png Graphic file (type png)
+
+<use images/SingleElement.png>
+Package pdftex.def Info: images/SingleElement.png used on input line 192.
+(pdftex.def)             Requested size: 221.32687pt x 143.46501pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5
+
+ <./images/Process1.png> <./images/Process2.png> <./images/Durable.png>]
+<images/Array1.png, id=60, 369.38pt x 302.12875pt>
+File: images/Array1.png Graphic file (type png)
+ <use images/Array1.png>
+Package pdftex.def Info: images/Array1.png used on input line 200.
+(pdftex.def)             Requested size: 221.32687pt x 181.0297pt.
+Missing character: There is no µ in font ptmr7t!
+Missing character: There is no µ in font ptmr7t!
+
+<images/Sim.png, id=61, 281.05pt x 127.47626pt>
+File: images/Sim.png Graphic file (type png)
+ <use images/Sim.png>
+Package pdftex.def Info: images/Sim.png used on input line 208.
+(pdftex.def)             Requested size: 221.32687pt x 100.38808pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/POSFET.png, id=62, 498.86375pt x 256.96pt>
+File: images/POSFET.png Graphic file (type png)
+ <use images/POSFET.png>
+Package pdftex.def Info: images/POSFET.png used on input line 214.
+(pdftex.def)             Requested size: 221.32687pt x 114.00375pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <./images/SingleElement.png> <./images/Array1.png> <./images/Sim.png> <./ima
+ges/POSFET.png>] <images/Posstruct.png, id=70, 377.41pt x 416.55624pt>
+File: images/Posstruct.png Graphic file (type png)
+
+<use images/Posstruct.png>
+Package pdftex.def Info: images/Posstruct.png used on input line 231.
+(pdftex.def)             Requested size: 221.32687pt x 244.28506pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/Demo.png, id=71, 336.25626pt x 333.245pt>
+File: images/Demo.png Graphic file (type png)
+ <use images/Demo.png>
+Package pdftex.def Info: images/Demo.png used on input line 240.
+(pdftex.def)             Requested size: 221.32687pt x 219.34743pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7
+
+ <./images/Posstruct.png> <./images/Demo.png>] (./Literature Review.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6
+ [8
 
 ])
-[7
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] (./Literature Review.aux) ) 
+ [9
+
+]
+(./Literature Review.aux) ) 
 Here is how much of TeX's memory you used:
- 3982 strings out of 493014
- 57944 string characters out of 6133351
- 132803 words of memory out of 5000000
- 7430 multiletter control sequences out of 15000+600000
- 35576 words of font info for 74 fonts, out of 8000000 for 9000
+ 4108 strings out of 493014
+ 60071 string characters out of 6133351
+ 136905 words of memory out of 5000000
+ 7536 multiletter control sequences out of 15000+600000
+ 38951 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,18n,40p,442b,366s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvip
-s/base/8r.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmsy6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive
-/2016/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Literature Review.pdf" (7 pages, 147719 bytes).
+ 39i,18n,40p,914b,366s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/
+base/8r.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "Literature Review.pdf" (9 pages, 4474238 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
+ 109 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
