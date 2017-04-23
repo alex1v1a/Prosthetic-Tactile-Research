@@ -59,7 +59,21 @@ This dissertation recommends that a viable sensor for use with prosthetics will 
 Tactile sensors have a wide range of applications from medical instruments, manufacturing line, sorting tasks, and much more. Over the last decade tactile sensors have been refined from their more rudimentary predecessors; which in turn provides far more variety of applications. One opportunity opened when durable tactile's with moderate usable resolution presented itself is the task or implementation in prosthetics. 
 
 %Scientific
-Doctors are now successfully experimenting with a surgery called TMR (targeted muscle reinnervation) also known as TSR (targeted sensor reinnervation) with slight variances. This surgery unbundles the main already severed nerves (touch and muscle control) and maps them to a patients skin nerves; which allow devices such as electrodes to be used to measure the patterns and run algorithms to determine process's of movement currently up to 10 degrees of freedom [John Hopkins APL, DARPA] as a bonus to this nerve mapping the stimulation of the mapped skin area could be used to give sensation back to the user of feeling in their missing limb down to the stroke on the pinky. As an additional side effect which surprised everyone at the time is that the mapped nerves could also sense all the ranges regular appendages could with a range of temperature and sharpness.
+Doctors are now successfully experimenting with a surgery called TMR (targeted muscle reinnervation) also known as TSR (targeted sensor reinnervation) with slight variances. This surgery unbundles the main already severed nerves (touch and muscle control) and maps them to a patients skin nerves; which allow devices such as electrodes to be used to measure the patterns and run algorithms to determine process's of movement currently up to 10 degrees of freedom [John Hopkins APL, DARPA] as a bonus to this nerve mapping the stimulation of the mapped skin area could be used to give sensation back to the user of feeling in their missing limb down to the stroke on the pinky. 
+
+As an additional side effect which surprised everyone at the time is that the mapped nerves could also sense all the ranges regular appendages could with a range of temperature and sharpness.
+
+
+%Value/significance/benefits of this research
+This remarkable procedure not only provides the task to give users back control of a once lost limb, it also means a response can be issued back dynamically none the less from a stimulated force feedback, to simulated temperature control. 
+
+The focus of this research being that more second step in which a force is to be measured, in turn giving an output to which can be applied to the user in a number of ways. The frame of tactile's today has come along way in the last 10 years for robotics, and can now successfully be utilised for this application.
+
+
+\
+
+%Research focus
+A number of methods have already been implemented in order to achieve this task, however there is more then one correct answer and development will only improve. Currently there are several limitations at hand (no pun intended) including size, durability and deformation, types of sensors, and other aesthetic and ethic aspects to be praised.
 
 \begin{figure}[h!]
   \includegraphics[width=\linewidth]{images/Nerve}
@@ -67,18 +81,12 @@ Doctors are now successfully experimenting with a surgery called TMR (targeted m
   \label{fig:Nerve}
 \end{figure}
 
-%Value/significance/benefits of this research
-This remarkable procedure not only provides the task to give users back control of a once lost limb, it also means a response can be issued back dynamically none the less from a stimulated force feedback, to simulated temperature control. The focus of this research being that more second step in which a force is to be measured, in turn giving an output to which can be applied to the user in a number of ways. The frame of tactile's today has come along way in the last 10 years for robotics, and can now successfully be utilised for this application.
-
-%Research focus
-A number of methods have already been implemented in order to achieve this task, however there is more then one correct answer and development will only improve. Currently there are several limitations at hand (no pun intended) including size, durability and deformation, types of sensors, and other aesthetic and ethic aspects to be praised.
-
 %Research aims and individual research objectives, Objectives and topics of the review relevant to this research
-The main aspect to focus for this prosthetic tactile research, as there are so many focus segments, is to apply an array of tactile's to a wearable device; in which a user output can be given such that a high enough resolution is available to determine the difference between smooth distribution and sharp surfaces e.g. a sea egg (urchin) and a chicken egg.
+The main aspect to focus for this prosthetic tactile research (as there are so many focus segments) is to apply an array of tactile's to a wearable device; in which a user output can be given such that a high enough resolution is available to determine the difference between smooth distribution and sharp surfaces e.g. a sea egg (urchin) and a chicken egg. 
+
+This is a critical move in applying using a tactile device to output in micro volts and stimulate the nerve sense with the TMR mapping. It is hoped to re-obtain some of the lost sense back; this could be applied for machines, and patients with nerve damage not just amputees. It also open the possibility in assistive touch for those suffering from muscle diseases such as ALS, in the respect that in collaboration with another device a computer is able to assist the user in not over-gripping/under-gripping of objects etc.
 
 %Technological, social, economical and environmental impacts
-
-
 \subsection{Social, Economical and Environmental impact}
 
 The way in which fundamental interactions with the environment can be defined is limited. 
@@ -139,13 +147,13 @@ o Identify gaps in the research
 \section{Methodology}
 Several types of tactile have been developed over the last 30 years from large resistors, and narrowing to smaller more compact transistors. 
 
-The focus over the lsat 10 years has been to form a more durable and robust tactile, capable of being bent and stretched in order to deform in a manner respect to its environment. 
+The focus over the lsat 10 years has been to form a more durable and robust tactile, capable of being bent and stretched in order to deform in a manner respect to its environment \cite{dahiya2013directions}
 
 The importance of this research enables implementations in applications such as the medical and manufacturing fields; and more specifically to address the manner of wearable touch sensitive devices, to distinguish the nature of foreign objects.
 
 \subsection{Materials}
 
-Traditionally inorganic materials have been used due to their favourable fabrication and electronic performance; however for the of nature of this application, and the specific parameters required, a smart ductile, stretchable, electronic material, is required to match properties that like of skin \cite{tinku2016micro} Therefore a balance must be found on which the properties are met for all required conditions.
+Traditionally inorganic materials have been used due to their favourable fabrication and electronic performance; however for the of nature of this application, and the specific parameters required, a smart ductile, stretchable, electronic material, is required to match properties that like of skin \cite{tinku2016micro} \cite{dahiya2007tactile} Therefore a balance must be found on which the properties are met for all required conditions.
 
 \begin{figure}[h!]
   \includegraphics[width=\linewidth]{images/Traditional}
@@ -153,7 +161,7 @@ Traditionally inorganic materials have been used due to their favourable fabrica
   \label{fig:Traditional}
 \end{figure}
 
-The current materials being implemented are P(VDF-TrFE) soft piezoelectric polymer films \cite{billard2013roboskin} These polymers demonstrate viscoelastic, and dielectric losses, which are used as an advantage to the substrate \cite{tinku2016micro} 
+The current materials being implemented are P(VDF-TrFE) soft piezoelectric polymer films \cite{billard2013roboskin} \cite{dahiya2010tactile} These polymers demonstrate viscoelastic, and dielectric losses, which are used as an advantage to the substrate \cite{tinku2016micro} 
 
 Stretchable polymers are a great means for rigidity and deformation, however its materials lack in the ability to conduct electrical signals efficiently \cite{yogeswaran2015new} Therefore conductive fillers were introduced to aid the conductivity of layers. This is a trade-off of course as the higher ratio of filler added, the less ductile the material, the more brittle the nano-wires \cite{billard2013roboskin} which of course is reliant for the system.
 
@@ -188,13 +196,17 @@ In a standard manufacturing process, arrays of tactile's are printed in layers. 
 
 Although silicon has become a popular and widely used material for tactile's in many research development centres around the world \cite{dahiya2013bendable}; Dr. Ravinder S. Dahiya has applied graphene in substitute as a filler for several prototypes in 2104.
 
+While this method is not relatively new, it has been avoided in more of the films designs from methods produced by Rodolfo Zunino, and Maurizio Valle. The argument is that introducing graphene in the substrate is adding limitations on future development, but its important to note that the Si compounds widely used are mostly artificial, and therefore cost effective \cite{dahiya2007posfet} 
+
+In order to produce a feasible method without the graphene, organic materials must first be further explored, to provide a more stable and cost effective approach \cite{dahiya2013posfet} Currently the organic materials although highly accurate, are highly unstable.
+
 \begin{figure}[h!]
   \includegraphics[width=\linewidth]{images/SingleElement}
   \caption{Single element diagram of a POSFET tactile}
   \label{fig:SingleElement}
 \end{figure}
 
-The ultra thin layers are grown even smaller then other silicone-based types, Down to the macro scale for each piezoelectric oxide semiconductor field effect transistor (POSFET) - each element in the array generates a charge voltage, as per design of the MOSFET the signal is then amplified to be analysed by computational intelligence.
+The ultra thin layers of each transistor are grown even smaller then other silicone-based types, Down to the macro scale for each piezoelectric oxide semiconductor field effect transistor (POSFET) \cite{yogeswaran2015new} Each element in the array generates a charge voltage, as per design of the MOSFET the signal is then amplified to be analysed by computational intelligence.
 
 \begin{figure}[h!]
   \includegraphics[width=\linewidth]{images/Array1}
@@ -202,7 +214,9 @@ The ultra thin layers are grown even smaller then other silicone-based types, Do
   \label{fig:Array1}
 \end{figure}
 
-The CMOS Sensor Array consists of elements in the 32 micro electrode gates and are layered between 15 µm and 100 µm piezoelectric films \cite{khan2015technologies} These films use an epoxy where higher filler of graphene is found \cite{dahiya2013posfet} The advantage is that each piezoelectric block has a higher control gain over the individual sensors and therefore simulated response when passed through as RAW data to the Computational intelligence it's far more accurate \cite{dahiya2007posfet}
+The CMOS Sensor Array consists of elements in the 32 micro electrode gates and are layered between 15 µm and 100 µm piezoelectric films \cite{khan2015technologies} \cite{dahiya2010tactile} \cite{dahiya2008tactile}
+
+These films use an epoxy where higher filler of graphene is found \cite{dahiya2013posfet} The advantage is that each piezoelectric block has a higher control gain over the individual sensors and therefore simulated response when passed through as RAW data to the computational intelligence it's far more accurate \cite{dahiya2007posfet}
 
 \begin{figure}[h!]
   \includegraphics[width=\linewidth]{images/Sim}
@@ -216,14 +230,16 @@ The CMOS Sensor Array consists of elements in the 32 micro electrode gates and a
   \label{fig:POSFET}
 \end{figure}
 
-Articles of Dr. Dahiya's more recent work discuss how the nano fabricated arrays are 
+Articles of Dr. Dahiya's more recent work discuss how the nano fabricated arrays are now using some of the graphene layers as conductive solar cells which are sufficient in self powering, they are also surprisingly stable even in low light conditions (greater then 30\%). However the power is not enough for any computational processing.
+
+
 
 \clearpage
 \subsection{Computational Intelligence}
 
 As a general rule the piezoelectric polymer transducer is influenced by types of materials on all sides. This is important to note when handling the RAW data. Computational intelligence introduces different approaches on how to deal with such information as well as how to deal with roughness, angled contact, also texture pattern recognition, and other object detection \cite{decherchi2011tactile} 	
 
-Classifiers are used for the platform to address the dynamic range of forces \cite{cannata2010tactile} To calibrate this range, an instance of neural networks are stabilised using a learning machine; this uses probes of different materials and forces to generate a dynamic force range. The RAW data is passed to check the phase difference between each sensor on a difference deformation level, which is then used to average the force on the entire measurable area; a bit like mapping how skin ranges from tight and stretchy, to hard and wrinkly.
+Classifiers are used for the platform to address the dynamic range of forces \cite{cannata2010tactile} To calibrate this range, an instance of neural networks are stabilised using a learning machine; this uses probes of different materials and forces to generate a dynamic force range. The RAW data is passed to check the phase difference between each sensor on a difference deformation level, which is then used to average the force on the entire measurable area; a bit like mapping how skin ranges from tight and stretchy, to hard and wrinkly \cite{dahiya2010tactile}
 
 Piezoelectric polymer properties offer a great range of positive aspects; however there are some drawbacks with factors to take account for, such as viscoelastic, dielectric losses. To compensate for these losses complex constants are in place for the elastic region, and often the phase of the signal must be classified with the dynamic forces \cite{kaboli2016novel}
 
@@ -267,13 +283,15 @@ results, conclusions and recommendations ? Expressing and justifying agreement a
 \clearpage
 \section{CONCLUSIONS}
 
-The results are highly influenced by real-world factors. How it feels when touched to a surface can be dependent on a number of considered reasons; these include interaction behaviours when the tactile's are deformed. Contact to objects and other external forces are not exempt to the noise of motion; meaning that not only the weight of an object and its deformation to the sensors must be compensated, but also how the motion and movements change this dynamic measurement. If the array were to sense a spiky ball being held in place, then squeezed the ball, and lastly push and roll the ball on a 3rd surface; the sensitivity of forces are calibrated such that an array can concise of 25 to 256 elements, thus providing a comparable use of range. 
+The results are highly influenced by real-world factors. How it feels when touched to a surface can be dependent on a number of considered reasons; these include interaction behaviours when the tactile's are deformed \cite{cannata2010modular} Contact to objects and other external forces are not exempt to the noise of motion; meaning that not only the weight of an object and its deformation to the sensors must be compensated, but also how the motion and movements change this dynamic measurement. If the array were to sense a spiky ball being held in place, then squeezed the ball, and lastly push and roll the ball on a 3rd surface; the sensitivity of forces are calibrated such that an array can concise of 25 to 256 elements, thus providing a comparable use of range \cite{dahiya2013posfet}
 
-It is found that with the current range of research POSFET element, CMOS arrays are at a strong point and have future development underway with 3D mapping and force prediction. The POSFET tactile's are to a high enough resolution, and the durable, ductile material allows to be fitted to a specific or wide range of applications. 
+It is found that with the current range of research POSFET element, CMOS arrays are at a strong point and have future development underway with 3D mapping and force prediction \cite{cannata2010tactile} The POSFET tactile's are to a high enough resolution, and the durable, ductile material allows to be fitted to a specific or wide range of applications.
 
-The properties of the piezoelectric blocks are stable enough and provide an accurate dynamic range of feedback, which when using correct classification and accounting for the phase and gain with deformation, will provide a close to life like sense similar to that of a human hand. 
+The properties of the piezoelectric blocks are stable enough and provide an accurate dynamic range of feedback, which when using correct classification and accounting for the phase and gain with deformation, will provide a close to life like sense similar to that of a human hand \cite{dahiya2009development}
 
-The material is also 98.78\% translucent and remarkably thin allowing the application to be used as a medicine glove, or other low profile device for a wide range of applications. The limitations at this stage are that its not yet an everyday usable device, and may not be available for commercial application for some time. The major setback is if a single element becomes offline the series will fail, and due to the inability to change individual components the entire unit would need to be replaced; however the cost per unit is considerably cheap to manufacture which will hopefully show on the retail side.
+The material is also 98.78\% translucent and remarkably thin allowing the application to be used as a medicine glove, or other low profile device for a wide range of applications \cite {yogeswaran2015new} The limitations at this stage are that its not yet an everyday usable device, and may not be available for commercial application for some time. 
+
+The major setback is if a single element becomes offline the series will fail, and due to the inability to change individual components the entire unit would need to be replaced; however the cost per unit is considerably cheap to manufacture which will hopefully show on the retail side \cite{billard2013roboskin}
 
 For the purpose of this task, the piezoelectric array tactile's, PRINTSKIN (Dr. Ravinder S. Dahiya, University of Glasgow Scotland) or E-Skin (Tokyo University Professor Takao Someya) is optimal for measuring the variety of difference between a sea egg or chicken egg. 
 
