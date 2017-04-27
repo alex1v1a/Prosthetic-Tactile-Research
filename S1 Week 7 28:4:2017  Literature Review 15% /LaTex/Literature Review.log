@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.12)  23 APR 2017 18:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.12)  28 APR 2017 01:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -461,61 +461,59 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <images/Nerve.png, id=38, 679.53876pt x 490.83376pt>
 File: images/Nerve.png Graphic file (type png)
  <use images/Nerve.png>
-Package pdftex.def Info: images/Nerve.png used on input line 79.
+Package pdftex.def Info: images/Nerve.png used on input line 80.
 (pdftex.def)             Requested size: 221.32687pt x 159.86359pt.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 80.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 81.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 80.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 81.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 90.
- [3 <./images/Nerve.png>] <images/Traditional.png, id=45, 259.97125pt x 685.561
-25pt>
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 136.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./images/Nerve.png>] <images/Traditional.png, id=45, 204.765pt x 133.49875
+pt>
 File: images/Traditional.png Graphic file (type png)
 
 <use images/Traditional.png>
-Package pdftex.def Info: images/Traditional.png used on input line 159.
-(pdftex.def)             Requested size: 221.32687pt x 583.65036pt.
+Package pdftex.def Info: images/Traditional.png used on input line 169.
+(pdftex.def)             Requested size: 221.32687pt x 144.30481pt.
+
+Underfull \hbox (badness 3098) in paragraph at lines 174--175
+[]\OT1/ptm/m/n/10 The cur-rent ma-te-ri-als be-ing im-ple-mented are
+ []
+
+<images/Process1.png, id=46, 362.35374pt x 249.93375pt>
+File: images/Process1.png Graphic file (type png)
+
+<use images/Process1.png>
+Package pdftex.def Info: images/Process1.png used on input line 194.
+(pdftex.def)             Requested size: 221.32687pt x 152.66148pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Underfull \hbox (badness 3098) in paragraph at lines 164--165
-[]\OT1/ptm/m/n/10 The cur-rent ma-te-ri-als be-ing im-ple-mented are
- []
-
-
-LaTeX Warning: Text page 4 contains only floats.
-
-
-Overfull \vbox (2.35403pt too high) has occurred while \output is active []
-
-
-[4
-
- <./images/Traditional.png>]
-<images/Process1.png, id=50, 362.35374pt x 249.93375pt>
-File: images/Process1.png Graphic file (type png)
-
-<use images/Process1.png>
-Package pdftex.def Info: images/Process1.png used on input line 175.
-(pdftex.def)             Requested size: 221.32687pt x 152.66148pt.
-
-<images/Process2.png, id=51, 362.35374pt x 242.9075pt>
+<images/Process2.png, id=47, 362.35374pt x 242.9075pt>
 File: images/Process2.png Graphic file (type png)
 
 <use images/Process2.png>
-Package pdftex.def Info: images/Process2.png used on input line 181.
+Package pdftex.def Info: images/Process2.png used on input line 200.
 (pdftex.def)             Requested size: 221.32687pt x 148.36978pt.
- <images/Durable.png, id=52, 341.275pt x 629.35126pt>
-File: images/Durable.png Graphic file (type png)
 
-<use images/Durable.png>
-Package pdftex.def Info: images/Durable.png used on input line 189.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/Durable.png, id=48, 341.275pt x 629.35126pt>
+File: images/Durable.png Graphic file (type png)
+ <use images/Durable.png>
+Package pdftex.def Info: images/Durable.png used on input line 208.
 (pdftex.def)             Requested size: 221.32687pt x 408.16116pt.
 
 
@@ -526,23 +524,21 @@ Missing character: There is no µ in font ptmr7t!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5
-
- <./images/Process1.png> <./images/Process2.png> <./images/Durable.png>]
-<images/SingleElement.png, id=59, 362.35374pt x 234.8775pt>
+ [4 <./images/Traditional.png>]
+<images/SingleElement.png, id=53, 362.35374pt x 234.8775pt>
 File: images/SingleElement.png Graphic file (type png)
 
 <use images/SingleElement.png>
-Package pdftex.def Info: images/SingleElement.png used on input line 204.
+Package pdftex.def Info: images/SingleElement.png used on input line 223.
 (pdftex.def)             Requested size: 221.32687pt x 143.46501pt.
 
-<images/Array1.png, id=60, 369.38pt x 302.12875pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/Array1.png, id=54, 369.38pt x 302.12875pt>
 File: images/Array1.png Graphic file (type png)
  <use images/Array1.png>
-Package pdftex.def Info: images/Array1.png used on input line 212.
+Package pdftex.def Info: images/Array1.png used on input line 231.
 (pdftex.def)             Requested size: 221.32687pt x 181.0297pt.
 
 
@@ -550,10 +546,11 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Missing character: There is no µ in font ptmr7t!
 Missing character: There is no µ in font ptmr7t!
+[5 <./images/Process1.png> <./images/Process2.png> <./images/Durable.png>]
 <images/Sim.png, id=61, 281.05pt x 127.47626pt>
 File: images/Sim.png Graphic file (type png)
  <use images/Sim.png>
-Package pdftex.def Info: images/Sim.png used on input line 222.
+Package pdftex.def Info: images/Sim.png used on input line 241.
 (pdftex.def)             Requested size: 221.32687pt x 100.38808pt.
 
 
@@ -562,56 +559,44 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <images/POSFET.png, id=62, 498.86375pt x 256.96pt>
 File: images/POSFET.png Graphic file (type png)
  <use images/POSFET.png>
-Package pdftex.def Info: images/POSFET.png used on input line 228.
+Package pdftex.def Info: images/POSFET.png used on input line 247.
 (pdftex.def)             Requested size: 221.32687pt x 114.00375pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[6 <./images/SingleElement.png> <./images/Array1.png> <./images/Sim.png> <./ima
-ges/POSFET.png>] <images/Posstruct.png, id=70, 377.41pt x 416.55624pt>
+
+Underfull \vbox (badness 7168) has occurred while \output is active []
+
+ [6 <./images/SingleElement.png> <./images/Array1.png> <./images/Sim.png> <./im
+ages/POSFET.png>] <images/Posstruct.png, id=70, 377.41pt x 416.55624pt>
 File: images/Posstruct.png Graphic file (type png)
 
 <use images/Posstruct.png>
-Package pdftex.def Info: images/Posstruct.png used on input line 247.
+Package pdftex.def Info: images/Posstruct.png used on input line 266.
 (pdftex.def)             Requested size: 221.32687pt x 244.28506pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<images/Demo.png, id=71, 336.25626pt x 333.245pt>
+ <images/Demo.png, id=71, 336.25626pt x 333.245pt>
 File: images/Demo.png Graphic file (type png)
- <use images/Demo.png>
-Package pdftex.def Info: images/Demo.png used on input line 256.
+
+<use images/Demo.png>
+Package pdftex.def Info: images/Demo.png used on input line 276.
 (pdftex.def)             Requested size: 221.32687pt x 219.34743pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
+[7 <./images/Posstruct.png> <./images/Demo.png>] (./Literature Review.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7
-
- <./images/Posstruct.png> <./images/Demo.png>] (./Literature Review.bbl
+)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8
-
-])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9
-
-]
+ [8]
 (./Literature Review.aux) ) 
 Here is how much of TeX's memory you used:
  4108 strings out of 493014
  60071 string characters out of 6133351
- 136905 words of memory out of 5000000
+ 137905 words of memory out of 5000000
  7536 multiletter control sequences out of 15000+600000
  38951 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -624,10 +609,10 @@ sy9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
 ocal/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/te
 xmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Literature Review.pdf" (9 pages, 4475510 bytes).
+Output written on "Literature Review.pdf" (8 pages, 4464206 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
- 61 compressed objects within 1 object stream
+ 106 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
