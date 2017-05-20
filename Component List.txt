@@ -1,0 +1,9 @@
+Component List - 24/04/17
+HP 10 Plus 2201RA Tablet (White & Silver) SN:CNU44995RY PN:J6U30PA#ABG
+1x Micro USB Cable & 2A 5V USB AU Charger
+Stretch Sense Bluetooth micro controller PN:M21470 with wire harness and adaptor
+Lipo Charger Basic 3.7V 1C with 3.7V 110mAh 0.407Wh Lipo 
+5x Identical Flexible Sensors 12x2x0.1cm with 2 mounting holes each side and thin connection wire
+Prototype plastic hand model, with 3D printed mounting points and rubber fingers controlled by small black nylon rope
+Miscellaneous nuts, bolts, and 3D printed parts
+Quick Start manuals and black carry case

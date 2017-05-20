@@ -1,0 +1,633 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.12)  28 APR 2017 21:47
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"Literature Review.tex"
+(./Literature Review.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/IEEEconf/IEEEconf.cls
+Document Class: IEEEconf 2009/04/05 v1.4 IEEE Computer Society 8.5x11" conferen
+ce proceedings
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen111
+\extrarowheight=\dimen112
+\NC@list=\toks16
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+\ieee@author@width=\skip45
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box26
+\beforetitleunit=\skip46
+\aftertitleunit=\skip47
+\ttl@plus=\dimen113
+\ttl@minus=\dimen114
+\ttl@toksa=\toks17
+\titlewidth=\dimen115
+\titlewidthlast=\dimen116
+\titlewidthfirst=\dimen117
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks18
+\verbatim@line=\toks19
+\verbatim@in@stream=\read1
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen118
+\Gin@req@width=\dimen119
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count91
+\calc@Bcount=\count92
+\calc@Adimen=\dimen120
+\calc@Bdimen=\dimen121
+\calc@Askip=\skip48
+\calc@Bskip=\skip49
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count93
+\calc@Cskip=\skip50
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen122
+\AM@pageheight=\dimen123
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box27
+\AM@global@opts=\toks20
+\AM@toc@title=\toks21
+\c@AM@survey=\count94
+\AM@templatesizebox=\box28
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+
+LaTeX Warning: Unused global option(s):
+    [conference].
+
+(./Literature Review.aux)
+\openout1 = `"Literature Review.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 29.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(63.87643pt, 469.75499pt, 63.87645pt)
+* v-part:(T,H,B)=(72.26999pt, 641.39624pt, 131.38062pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.75499pt
+* \textheight=641.39624pt
+* \oddsidemargin=-8.39355pt
+* \evensidemargin=-8.39355pt
+* \topmargin=0.0pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=0.0pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=27.10124pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\big@size=\dimen124
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count95
+\scratchdimen=\dimen125
+\scratchbox=\box29
+\nofMPsegments=\count96
+\nofMParguments=\count97
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count98
+\MPscratchDim=\dimen126
+\MPnumerator=\count99
+\makeMPintoPDFobject=\count100
+\everyMPtoPDFconversion=\toks23
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box30
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+<TitlePage.pdf, id=1, 597.4822pt x 845.1575pt>
+File: TitlePage.pdf Graphic file (type pdf)
+ <use TitlePage.pdf>
+Package pdftex.def Info: TitlePage.pdf used on input line 33.
+(pdftex.def)             Requested size: 597.48073pt x 845.15544pt.
+File: TitlePage.pdf Graphic file (type pdf)
+
+<use TitlePage.pdf>
+Package pdftex.def Info: TitlePage.pdf used on input line 33.
+(pdftex.def)             Requested size: 597.48073pt x 845.15544pt.
+ <TitlePage.pdf, id=4, page=1, 597.4822pt x 845.1575pt>
+File: TitlePage.pdf Graphic file (type pdf)
+
+<use TitlePage.pdf, page 1>
+Package pdftex.def Info: TitlePage.pdf, page1 used on input line 33.
+(pdftex.def)             Requested size: 597.48073pt x 845.15544pt.
+File: TitlePage.pdf Graphic file (type pdf)
+ <use TitlePage.pdf, page 1>
+Package pdftex.def Info: TitlePage.pdf, page1 used on input line 33.
+(pdftex.def)             Requested size: 597.50807pt x 845.19412pt.
+File: TitlePage.pdf Graphic file (type pdf)
+
+<use TitlePage.pdf, page 1>
+Package pdftex.def Info: TitlePage.pdf, page1 used on input line 33.
+(pdftex.def)             Requested size: 597.50807pt x 845.19412pt.
+File: TitlePage.pdf Graphic file (type pdf)
+ <use TitlePage.pdf, page 1>
+Package pdftex.def Info: TitlePage.pdf, page1 used on input line 33.
+(pdftex.def)             Requested size: 597.50807pt x 845.19412pt.
+File: TitlePage.pdf Graphic file (type pdf)
+
+<use TitlePage.pdf, page 1>
+Package pdftex.def Info: TitlePage.pdf, page1 used on input line 37.
+(pdftex.def)             Requested size: 597.50807pt x 845.19412pt.
+ [1
+
+
+ <./TitlePage.pdf>]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+ (./Literature Review.toc
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 3.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 3.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 3.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 3.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+)
+\tf@toc=\write3
+\openout3 = `"Literature Review.toc"'.
+
+ [2
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 41.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 41.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[][]\OT1/ptm/m/n/8 Faculty of Mecha-tron-ics En-gi-neer-ing, Massey Uni-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/ptm/m/n/8 ver-sity, Al-bany, Auck-land, New Zealand \OT1/pcr/m/n/9 Progres
+s
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/pcr/m/n/9 of project: alex1v1a.github.io
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+]
+<images/Nerve.png, id=41, 679.53876pt x 490.83376pt>
+File: images/Nerve.png Graphic file (type png)
+ <use images/Nerve.png>
+Package pdftex.def Info: images/Nerve.png used on input line 90.
+(pdftex.def)             Requested size: 221.32687pt x 159.86359pt.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 91.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 91.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 147.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2 <./images/Nerve.png>] <images/Traditional.png, id=48, 204.765pt x 133.49875
+pt>
+File: images/Traditional.png Graphic file (type png)
+
+<use images/Traditional.png>
+Package pdftex.def Info: images/Traditional.png used on input line 184.
+(pdftex.def)             Requested size: 221.32687pt x 144.30481pt.
+
+Underfull \hbox (badness 3098) in paragraph at lines 189--190
+[]\OT1/ptm/m/n/10 The cur-rent ma-te-ri-als be-ing im-ple-mented are
+ []
+
+[3 <./images/Traditional.png>]
+<images/Process1.png, id=53, 362.35374pt x 249.93375pt>
+File: images/Process1.png Graphic file (type png)
+
+<use images/Process1.png>
+Package pdftex.def Info: images/Process1.png used on input line 213.
+(pdftex.def)             Requested size: 221.32687pt x 152.66148pt.
+
+<images/Process2.png, id=54, 362.35374pt x 242.9075pt>
+File: images/Process2.png Graphic file (type png)
+
+<use images/Process2.png>
+Package pdftex.def Info: images/Process2.png used on input line 219.
+(pdftex.def)             Requested size: 221.32687pt x 148.36978pt.
+ <images/Durable.png, id=55, 341.275pt x 629.35126pt>
+File: images/Durable.png Graphic file (type png)
+
+<use images/Durable.png>
+Package pdftex.def Info: images/Durable.png used on input line 227.
+(pdftex.def)             Requested size: 221.32687pt x 408.16116pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Missing character: There is no µ in font ptmr7t!
+Missing character: There is no µ in font ptmr7t!
+
+Underfull \vbox (badness 5862) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4
+
+ <./images/Process1.png> <./images/Process2.png> <./images/Durable.png>]
+<images/SingleElement.png, id=62, 362.35374pt x 234.8775pt>
+File: images/SingleElement.png Graphic file (type png)
+
+<use images/SingleElement.png>
+Package pdftex.def Info: images/SingleElement.png used on input line 240.
+(pdftex.def)             Requested size: 221.32687pt x 143.46501pt.
+
+<images/Array1.png, id=63, 369.38pt x 302.12875pt>
+File: images/Array1.png Graphic file (type png)
+ <use images/Array1.png>
+Package pdftex.def Info: images/Array1.png used on input line 250.
+(pdftex.def)             Requested size: 221.32687pt x 181.0297pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Missing character: There is no µ in font ptmr7t!
+Missing character: There is no µ in font ptmr7t!
+<images/Sim.png, id=64, 281.05pt x 127.47626pt>
+File: images/Sim.png Graphic file (type png)
+ <use images/Sim.png>
+Package pdftex.def Info: images/Sim.png used on input line 260.
+(pdftex.def)             Requested size: 221.32687pt x 100.38808pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/POSFET.png, id=65, 498.86375pt x 256.96pt>
+File: images/POSFET.png Graphic file (type png)
+ <use images/POSFET.png>
+Package pdftex.def Info: images/POSFET.png used on input line 266.
+(pdftex.def)             Requested size: 221.32687pt x 114.00375pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 <./images/SingleElement.png> <./images/Array1.png> <./images/Sim.png> <./ima
+ges/POSFET.png>] <images/Posstruct.png, id=74, 377.41pt x 416.55624pt>
+File: images/Posstruct.png Graphic file (type png)
+
+<use images/Posstruct.png>
+Package pdftex.def Info: images/Posstruct.png used on input line 289.
+(pdftex.def)             Requested size: 221.32687pt x 244.28506pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+<images/Demo.png, id=75, 336.25626pt x 333.245pt>
+File: images/Demo.png Graphic file (type png)
+ <use images/Demo.png>
+Package pdftex.def Info: images/Demo.png used on input line 301.
+(pdftex.def)             Requested size: 221.32687pt x 219.34743pt.
+
+[6
+
+ <./images/Posstruct.png> <./images/Demo.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7
+
+]
+(./Literature Review.bbl
+Underfull \hbox (badness 1005) in paragraph at lines 38--42
+\OT1/ptm/m/n/9 M. Vel-liste, M. L. Boninger, and A. B. Schwartz,
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+) [8
+
+]
+(./Literature Review.aux) ) 
+Here is how much of TeX's memory you used:
+ 4130 strings out of 493014
+ 60453 string characters out of 6133351
+ 138933 words of memory out of 5000000
+ 7554 multiletter control sequences out of 15000+600000
+ 44411 words of font info for 89 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,18n,40p,612b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/
+base/8r.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "Literature Review.pdf" (10 pages, 4468031 bytes).
+PDF statistics:
+ 112 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+
