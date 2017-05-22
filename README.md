@@ -16,9 +16,9 @@ S1 Week 2 10/3/2017 Initial Research proposal (charter) 0% - COMPLETE
 
 S1 Week 4 22/3/2017 Final Research Proposal (charter) 5% - COMPLETE
 
-S1 Week 7 28/4/2017 Literature Review 15% - IN PROGRESS
+S1 Week 7 28/4/2017 Literature Review 15% - COMPLETE
 
-S1 Week 12 2/6/2017 Progress Meeting 10%
+S1 Week 12 2/6/2017 Progress Meeting 10% - IN PROGRESS
 
 ###Semester 2
 
