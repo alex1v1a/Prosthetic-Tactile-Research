@@ -18,12 +18,12 @@ S1 Week 4 22/3/2017 Final Research Proposal (charter) 5% - COMPLETE
 
 S1 Week 7 28/4/2017 Literature Review 15% - COMPLETE
 
-S1 Week 12 2/6/2017 Progress Meeting 10% - IN PROGRESS
+S1 Week 12 2/6/2017 Progress Meeting 10% - COMPLETE
 
 ###Semester 2
 
-S2 Week 11 13/10/2017 Research Paper 10%
+S2 Week 11 13/10/2017 Research Paper 10% - COMPLETE
 
-S2 Week 12 20/10/2017 Final Year Research project seminar 20%
+S2 Week 12 20/10/2017 Final Year Research project seminar 20% - COMPLETE
 
-S2 Week 13 31/10/2017 Final report 40%
+S2 Week 13 31/10/2017 Final report 40% - COMPLETE
